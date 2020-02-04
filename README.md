@@ -14,9 +14,9 @@ How to make a better decision on investing based on current major events?
 
 [Link to Mindmap](https://mm.tt/1410762546?t=VqTFfbyQ62)
 
-![mindmap](src/img/mindmap.png)
+![mindmap](src/img/mindmap2.png)
 
-
+### TOPICS
 - sectors related to current events
     - upstream
     - midstream
@@ -36,6 +36,17 @@ How to make a better decision on investing based on current major events?
 - investors investing activities due to major events (https://www.investopedia.com/articles/05/032905.asp)
     - panic sale
     - irrational purchase
+### AUDIENCE
+- Investors
+- Economists
+- People work for finance related fields
+
+### DATA SOURCE
+- Alpaca API
+- Bloomberg News
+- Google Search API
+- Yahoo News API
+
 ### Floating Topics
 - I'm visualizing Big Data Used in Competitive Sports because I want to show the significance of potential advantages of software technology on enhancing athlete's performance in order to attract more innovators to investigate this field.
     - Improvement by using big data
