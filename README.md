@@ -11,6 +11,9 @@
 ## Research Questions
 How to make a better decision on investing based on current major events?
 
+
+[Link to Mindmap](https://mm.tt/1410762546?t=VqTFfbyQ62)
+
 ![mindmap](src/img/mindmap.png)
 
 
