@@ -88,6 +88,15 @@ Developing from previous ideas, the current thesis focuses on a financial analys
 
  I wanted to narrow down health issue in economy to SARS and Covid-10 because these epidemics are the most severe in 21st century, with similar outbreak area and causes. For users who are interested in this topic, the current common method is selecting certain period and sectors on sites such as [Trading View](https://www.tradingview.com/). The hassel is that users need to find the relevant time on a different resource, e.g. Google "timeline of SARS". 
 
+ Here is an example of how I currently check the stock during SARS period:
+
+ First, I found the timeline of SARS at [CDC Official Website](https://www.cdc.gov/about/history/sars/timeline.htm).
+
+ ![timeline](src/img/timeline.png)
+
+ With the information above, I redirected to tradingview.com to go to relevant dates with the sector I thought was impacted. Here, i selected XLV, refer to Health Care. 
+ ![tradingview](src/img/tradingview.png)
+
  Therefore, I wanted to provide a more efficient way to filter out unrelevant information for clients. 
 
  ---
