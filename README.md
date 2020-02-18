@@ -78,3 +78,53 @@ How to make a better decision on investing based on current major events?
     - popularity
     - safety/ protection strategy
     - history
+
+
+----
+
+## Form
+Developing from previous ideas, the current thesis focuses on a financial analysis by comparing the period of SARS and Covid-19. The reasons I chose this topic is that besides the global health issues occured along with the outbreak of epidemic that are more obvious, the global economy is also impacted. The consequences vary from irrational purchase/sale to bankrupcy.
+
+
+ I wanted to narrow down health issue in economy to SARS and Covid-10 because these epidemics are the most severe in 21st century, with similar outbreak area and causes. For users who are interested in this topic, the current common method is selecting certain period and sectors on sites such as [Trading View](https://www.tradingview.com/). The hassel is that users need to find the relevant time on a different resource, e.g. Google "timeline of SARS". 
+
+ Therefore, I wanted to provide a more efficient way to filter out unrelevant information for clients. 
+
+ ---
+
+### Audience
+- Stock Trader
+- Stock Holder
+- Econ/Finance instructor looking for diagrams for instruction.
+- Financial Analyst
+- In general, anyone who is interested in trading and stock market.
+---
+### Interaction
+#### Device
+- Mobile device
+- Computer
+#### Content
+- Diagram
+    - Candlestick Chart showing high/low price, open/close price
+    - Bart Chart showing volume
+- Timeline displays events happened during each period
+- Background information texts introducing each epidemics
+
+---
+### System
+#### Input
+- Interested sectors
+- Interested time period (start time and end time)
+#### Output
+- Diagrams based on fields users select
+
+---
+
+### Takeaway
+- A direct observation of financial trend during SARS and Covid-19 period.
+- Understanding the consequences happened after each epidemic
+
+---
+### System Diagram
+![system-diagram](src/img/system_diagram.png)
+
