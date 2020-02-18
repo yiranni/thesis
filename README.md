@@ -118,6 +118,7 @@ Developing from previous ideas, the current thesis focuses on a financial analys
     - Bart Chart showing volume
 - Timeline displays events happened during each period
 - Background information texts introducing each epidemics
+- Relevant news in each juncture of time
 
 ---
 ### System
