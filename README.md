@@ -138,3 +138,6 @@ Developing from previous ideas, the current thesis focuses on a financial analys
 ### System Diagram
 ![system-diagram](src/img/system_diagram.png)
 
+## Prototype
+[prototype](https://www.figma.com/proto/3yOAp2IXwegWKkMuOIElPJ/Untitled?node-id=32%3A0&viewport=205%2C550%2C0.15998475253582&scaling=scale-down)
+

@@ -1,0 +1,32 @@
+Country ,Cumulative number of case(s) ,Number of new cases since last WHO update ,Final Status ,Local chain(s) of transmission3,Date of last report
+Number of deaths,Number recovered 2
+Australia ,  4,1,0, 3,None, 23 Apr 2003
+Brazil , 2,0,0, 0,None,16 Apr 2003
+Canada , 140, 1,13,65, Yes,  23 Apr 2003
+China ,  2305," 
+  304", 106,1231, Yes,  23 Apr 2003
+"China, Hong Kong Special Administrative Region4", 1458, 24, 105,522, Yes,  23 Apr 2003
+"China, Taiwan", 37,8,0,21, Yes,  23 Apr 2003
+France , 5,0,0,1, None,  21 Apr 2003
+Germany ,  7,  0,0, 6, None,  23 Apr 2003
+India, 1,0,0,1, None,  21 Apr 2003
+Indonesia, 1,0,0,0, None, 19 Apr 2003
+Italy , 3, 0,0,2, None,  23 Apr 2003
+Japan,  2, 0,0, 0, None,  23 Apr 2003
+Kuwait, 1, 0,0, 1, None, 20 Apr 2003
+Malaysia ,  5, -1,2,  2, None,  23 Apr 2003
+Mongolia, 3, 0,0,3, None, 17 Apr 2003
+Philippines, 2, 0, 1, 1, None, 21 Apr 2003
+Republic of Ireland , 1, 0,0, 1, None,  21 Apr 2003
+Romania , 1, 0,0, 1, None, 21 Apr 2003
+Singapore , 189,3, 17,114, Yes, 23 Apr 2003
+South Africa,1,0,0,0,None,9 Apr 2003
+Spain , 1, 0,0, 0, None,  21 Apr 2003
+Sweden,3, 0,0, 0, None, 21 Apr 2003
+Switzerland , 1, 0,0, 1, None,  21 Apr 2003
+Thailand , 7,0,2, 5, None, 22 Apr 2003
+United Kingdom , 6,0,0, 5, Yes,  22 Apr 2003
+United States, 39,1,0, not available,Yes,22 Apr 2003
+Viet Nam , 63, 0,5, 46, Yes, 17 Apr 2003
+Total , 4288," 
+  341", 251,2032, , 

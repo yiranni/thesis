@@ -1,0 +1,30 @@
+Country,Cumulative number of case(s),Number of new cases since last WHO update ,Final status/ Number of deaths ,Final status/ Number recovered^2,Local chain(s) of transmission^3,Date of last report
+Australia,4,0,0,3,None,23/Apr/2003
+Brazil,2,0,0,2,None,24/Apr/2003
+Bulgaria,1,0,0,0,None,24/Apr/2003
+Canada ,140,0,15,74,Yes,25/Apr/2003
+China,2601,179,115,1277,Yes,25/Apr/2003
+"China, Hong Kong Special Administrative Region^4",1510,22,115,614,Yes,25/Apr/2003
+"China, Taiwan ",41,4,0,21,Yes,25/Apr/2003
+France,5,0,0,1,None,21/Apr/2003
+Germany ,7,0,0,6,None,25/Apr/2003
+India,1,0,0,1,None,21/Apr/2003
+Indonesia,1,0,0,1,None,23/Apr/2003
+Italy,4,0,0,3,None,24/Apr/2003
+Japan,2,0,0,0,None,24/Apr/2003
+Kuwait,1,0,0,1,None,20/Apr/2003
+Malaysia,5,0,2,2,None,24/Apr/2003
+Mongolia,3,0,0,3,None,17/Apr/2003
+Philippines,2,0,1,1,None,21/Apr/2003
+Republic of Ireland,1,0,0,1,None,24/Apr/2003
+Romania,1,0,0,1,None,22/Apr/2003
+Singapore ,195,3,19,126,Yes,25/Apr/2003
+South Africa,1,0,0,0,None,9/Apr/2003
+Spain,1,0,0,1,None,24/Apr/2003
+Sweden,3,0,0,2,None,23/Apr/2003
+Switzerland ,1,0,0,1,None,21/Apr/2003
+Thailand ,8,0,2,5,None,24/Apr/2003
+United Kingdom ,6,0,0,6,Yes,25/Apr/2003
+United States,39,2,0,not available,Yes,24/Apr/2003
+Viet Nam,63,0,5,53,Yes,25/Apr/2003
+Total ,4649,210,274,2206,,

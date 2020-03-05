@@ -1,0 +1,33 @@
+Country,Cumulative number of case(s)^2,Number of new cases since last WHO update2.3,Number of deaths ,Number recovered^4,Date last probable case reported,Date for which cumulative number of cases is current
+Australia,6,0,0,6,12/May/2003,19/May/2003
+Brazil,2,0,0,2,10/Apr/2003,24/Apr/2003
+Canada ,140,0,23,106,4/May/2003,16/May/2003
+China,5236,40,289,2148,19/May/2003,19/May/2003
+"China, Hong Kong Special Administrative Region^5",1714,4,251,1213,19/May/2003,19/May/2003
+"China, Macao Special Administrative Region",1,0,0,0,9/May/2003,15/May/2003
+"China, Taiwan ",344,70,40,50,18/May/2003,18/May/2003
+Colombia,1,0,0,1,5/May/2003,5/May/2003
+Finland,1,0,0,0,7/May/2003,15/May/2003
+France,7,0,0,6,9/May/2003,16/May/2003
+Germany ,9,0,0,9,9/May/2003,19/May/2003
+India,3,0,0,3,13/May/2003,14/May/2003
+Indonesia,2,0,0,2,23/Apr/2003,19/May/2003
+Italy,9,0,0,9,29/Apr/2003,19/May/2003
+Kuwait,1,0,0,1,9/Apr/2003,20/Apr/2003
+Malaysia,7,0,2,5,9/May/2003,19/May/2003
+Mongolia,9,0,0,8,6/May/2003,19/May/2003
+New Zealand,1,0,0,1,30/Apr/2003,19/May/2003
+Philippines,12,0,2,8,15/May/2003,19/May/2003
+Republic of Ireland,1,0,0,1,21/Mar/2003,16/May/2003
+Republic of Korea,3,0,0,1,14/May/2003,19/May/2003
+Romania,1,0,0,1,27/Mar/2003,22/Apr/2003
+Singapore ,206,1,28,160,18/May/2003,18/May/2003
+South Africa,1,0,1,0,9/Apr/2003,3/May/2003
+Spain,1,0,0,1,2/Apr/2003,7/May/2003
+Sweden,3,0,0,3,18/Apr/2003,13/May/2003
+Switzerland ,1,0,0,1,17/Mar/2003,16/May/2003
+Thailand ,8,0,2,5,13/May/2003,18/May/2003
+United Kingdom ,4,0,0,4,29/Apr/2003,16/May/2003
+United States,67,1,0,34,17/May/2003,17/May/2003
+Viet Nam,63,0,5,58,14/Apr/2003,14/May/2003
+Total ,7864,116,643,3847,,
