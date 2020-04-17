@@ -1,0 +1,19 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Colobus spp.,Mammalia,Primates,Cercopithecidae,Colobus,SE,US,XX,,1,garments,,T,I
+2018,II,Colobus angolensis,Mammalia,Primates,Cercopithecidae,Colobus,US,KE,,54,,skeletons,,S,W
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,CH,DE,,1,,live,,Z,C
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,CN,CZ,FR,3,3,live,,T,C
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,CN,CZ,,3,3,live,,T,C
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,CN,ET,,70,,live,,B,W
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,CN,RU,TZ,4,6,live,,B,W
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,CN,SY,,10,,live,,T,C
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,HR,RS,DE,,1,skeletons,,E,C
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,ID,PL,,,3,live,,Z,C
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,JP,UG,,50,,hair,g,S,W
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,RS,HR,DE,1,,skeletons,,E,C
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,RU,ET,,,2,trophies,,H,W
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,UA,DE,,,1,live,,T,C
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,US,ET,,9,7,trophies,,H,W
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,US,SG,,,2,live,,Z,C
+2018,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,ZA,ET,,,2,trophies,,H,W
+2018,II,Colobus polykomos,Mammalia,Primates,Cercopithecidae,Colobus,DE,CI,,250,,specimens,,S,W

@@ -1,0 +1,199 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Equus africanus,Mammalia,Perissodactyla,Equidae,Equus,CL,FR,CZ,,1,live,,Z,C
+2018,I,Equus grevyi,Mammalia,Perissodactyla,Equidae,Equus,CA,US,,,1,live,,Z,C
+2018,I,Equus grevyi,Mammalia,Perissodactyla,Equidae,Equus,PL,US,,,4,live,,T,C
+2018,I,Equus grevyi,Mammalia,Perissodactyla,Equidae,Equus,US,CA,,1,,live,,Z,C
+2018,I,Equus hemionus,Mammalia,Perissodactyla,Equidae,Equus,AT,KZ,,120,,specimens,,S,W
+2018,I,Equus przewalskii,Mammalia,Perissodactyla,Equidae,Equus,CH,DE,,1,1,live,,Z,C
+2018,I,Equus przewalskii,Mammalia,Perissodactyla,Equidae,Equus,CZ,CH,,1,,live,,Z,C
+2018,I,Equus przewalskii,Mammalia,Perissodactyla,Equidae,Equus,MN,CZ,CH,,1,live,,N,C
+2018,I,Equus przewalskii,Mammalia,Perissodactyla,Equidae,Equus,MN,CZ,DE,,1,live,,N,C
+2018,I,Equus przewalskii,Mammalia,Perissodactyla,Equidae,Equus,MN,CZ,FI,,2,live,,N,C
+2018,I,Equus przewalskii,Mammalia,Perissodactyla,Equidae,Equus,US,HU,,,108,specimens,,S,C
+2018,II,Equus kiang,Mammalia,Perissodactyla,Equidae,Equus,US,CN,XX,5,,medicine,,P,I
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AE,NA,,,3,fur product (small),,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AO,NA,,,1,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AR,NA,,,4,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AR,NA,,,1,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AT,NA,,,2,fur product (small),,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AT,NA,,108,93,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AT,NA,,16,21,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AT,NA,,,1,skulls,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AT,NA,,14,26,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AT,NA,,1,,trophies,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,LU,NA,,1,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,NA,,,7,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,NA,,,7,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,AU,NA,,,3,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BE,NA,,6,7,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BE,NA,,6,10,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BG,NA,,2,6,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BG,NA,,,1,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BG,NA,,4,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BR,NA,,,2,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BR,NA,,,3,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BR,NA,,2,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,BW,NA,,,2,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CA,NA,,,14,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CA,NA,,,2,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CA,NA,,,6,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CA,US,ZA,,1,trophies,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CD,NA,,,5,fur product (small),,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CH,NA,,14,14,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CH,NA,,4,4,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CH,NA,,1,,skulls,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CH,NA,,,2,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CH,NA,,6,,unspecified,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CH,ZA,,1,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CL,ZA,NA,1,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CL,ZA,NA,1,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CN,GB,NA,20,,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CN,NA,,1,,rug,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CN,NA,,,42,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CN,NA,,45,43,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CN,NA,,,1,trophies,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CU,NA,,,2,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CZ,NA,,10,10,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CZ,NA,,6,5,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CZ,ZA,,1,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,CZ,ZA,,1,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,2,2,feet,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,2,,fur products (large),,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,,7,fur product (small),,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,210,4,fur product (small),,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,130,210,leather products (small),,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,306,262,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,46,143,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,46,35,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,4,,skulls,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,38,,teeth,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,16,51,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,1,,trophies,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,NA,,1,,trophies,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DE,ZA,,9,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DK,NA,ZA,1,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DK,NA,,3,60,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DK,NA,,,3,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DK,NA,,,28,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DK,NA,,66,23,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,DK,ZA,,5,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,EE,NA,,,8,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,EG,NA,,,1,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,NA,,4,,feet,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,NA,,4,,rug,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,NA,,36,42,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,NA,,3,7,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,NA,,25,25,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,NA,,6,13,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,NA,1,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,NA,1,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,,2,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,,5,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FI,NA,,1,,bodies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FI,NA,,16,23,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FI,NA,,3,4,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FI,NA,,1,3,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FR,CH,NA,,1,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FR,NA,,,37,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FR,NA,,10,9,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FR,NA,,,11,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,FR,ZA,,1,,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,GB,NA,,,11,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,GB,NA,,,7,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,GB,ZA,,2,,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,HK,NA,,,4,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,HR,NA,,,1,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,HU,NA,,,29,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,HU,NA,,36,11,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,HU,ZA,,1,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,IE,NA,,,1,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,IS,NA,,,4,fur product (small),,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,IS,NA,,,9,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,IT,NA,,,7,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,IT,NA,,1,3,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,IT,NA,,,3,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,IT,NA,,,3,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,IT,NA,,2,,trophies,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,KE,NA,,,2,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,KG,NA,,,1,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,LT,NA,,,2,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,LT,NA,,1,,trophies,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,LT,ZA,,1,,trophies,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,LU,NA,,,2,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,MU,NA,,,1,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,MX,NA,,,19,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,MX,NA,,,13,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NL,NA,,,4,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NL,NA,,1,4,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NL,NA,,,2,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NO,NA,,16,30,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NO,NA,,,1,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NO,ZA,,1,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NO,ZA,,1,,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NO,ZA,,2,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NZ,NA,,,1,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NZ,NA,,,1,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NZ,NA,,1,1,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,NZ,ZA,NA,3,,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,OM,US,XX,1,1,skins,,L,I
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,PL,NA,,,6,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,PL,NA,,5,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,PT,NA,,,2,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,PT,NA,,2,3,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RO,NA,,,4,feet,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RO,NA,,,4,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RO,NA,,,2,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RU,DE,NA,,1,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RU,FR,ZA,,1,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RU,NA,,,16,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RU,NA,,,6,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RU,NA,,,1,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,RU,NA,,,5,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SE,NA,,,13,fur product (small),,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SE,NA,,75,88,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SE,NA,,,1,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SE,NA,,11,13,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SE,ZA,,2,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SG,NA,,,1,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SG,NA,,1,,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SK,NA,,28,23,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SK,NA,,,1,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SL,NA,,,1,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,SL,NA,,,1,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,UA,NA,,,1,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,AE,NA,1,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,DK,NA,2,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,HU,NA,1,5,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,ZA,1,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,ZA,3,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,4,2,leather products (large),,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,4,4,leather products (small),,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,2,1,rug,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,1,,skins,,H,I
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,73,266,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,1,,skin pieces,,H,I
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,1,,skulls,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,3,,trophies,,H,I
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,320,170,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,NA,,1,,trophies,,P,I
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,NA,1,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,NA,10,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,1,,leather products (small),,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,1,,skins,,H,F
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,22,,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,1,,trophies,,H,I
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,76,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,US,ZW,NA,1,,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,UY,NA,,1,1,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,VN,NA,,,4,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,VN,NA,,,4,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ZA,NA,,,1,rug,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ZA,NA,,,36,skins,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ZA,NA,,,34,skins,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ZA,NA,,,21,skins,,T,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ZA,NA,,,19,trophies,,H,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ZA,NA,,,1,trophies,,P,W
+2018,II,Equus zebra hartmannae,Mammalia,Perissodactyla,Equidae,Equus,ZW,NA,,,1,skins,,H,W
+2018,II,Equus zebra zebra,Mammalia,Perissodactyla,Equidae,Equus,DE,ZA,,426,,specimens,,S,W
+2018,II,Equus zebra zebra,Mammalia,Perissodactyla,Equidae,Equus,ES,ZA,,1,,trophies,,H,W
+2018,II,Equus zebra zebra,Mammalia,Perissodactyla,Equidae,Equus,US,ZA,,1,,trophies,,H,I

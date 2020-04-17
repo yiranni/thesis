@@ -1,0 +1,125 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,AT,US,XX,52,52,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,AU,DE,CA,,40,specimens,ml,B,F
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,AU,GB,XX,,107,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,AU,NZ,IN,,1,ivory carvings,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,AU,SG,MY,,3,ivory pieces,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CA,GB,XX,,3,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CH,DE,DE,2,,live,,S,C
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CH,DE,XX,1,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CH,DE,,,2,specimens,,S,C
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CH,GB,XX,13,13,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CH,NL,XX,57,,ivory carvings,,E,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CN,DE,XX,,1,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CN,GB,CN,,2,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CN,GB,XX,,2,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CN,LA,CA,4,,live,,Z,C
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CN,LA,,8,,live,,Z,C
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CN,RU,CN,0.70,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CN,RU,XX,,2,ivory carvings,,S,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,CN,US,XX,2,2,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,DE,CH,DE,,5,specimens,ml,M,F
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,DE,CH,LK,,5,specimens,ml,M,F
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,DE,CH,MM,,5,specimens,ml,M,F
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,DE,CH,XX,1,1,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,DE,CH,XX,1,1,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,DE,CH,XX,,6,specimens,ml,M,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,DE,NA,IN,3,,tusks,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,DE,NA,,,3,tusks,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,FI,MM,,,6760,specimens,cm3,S,W
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,FR,AE,MO,1,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,FR,AR,MO,125.166666655,,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,FR,JP,MO,0.5,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,FR,JP,,30,30.5,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,FR,MM,,125,,specimens,,S,F
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,FR,US,XX,,8,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,FR,ZA,KH,2,,tusks,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,GB,MC,XX,1,,ivory carvings,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,GB,MM,,2050,,specimens,,S,W
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,GB,MY,XX,2,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,GB,MY,XX,,2,trophies,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,GB,US,XX,,2,ivory pieces,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,GE,RU,XX,2,2,live,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,GG,JE,XX,,1,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,GR,CN,XX,3,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,GR,CN,,,3,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,HK,FR,XX,4,,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,HK,GB,XX,123,129,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,ID,BE,ID,,2,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,IE,NZ,XX,,7,ivory carvings,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,IT,AU,XX,1,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,IT,US,IT,,2,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,IT,US,XX,1,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,JP,AT,XX,,3,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,JP,AT,,5,,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,JP,DE,XX,,1,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,JP,DE,,1,,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,JP,FR,MO,,30.5,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,JP,FR,,30.5,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,JP,GB,XX,,2,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,JP,GB,,2,,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,JP,MM,,,4,live,,Z,C
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,KR,GB,XX,,1,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,MK,BE,IN,,1,live,,Z,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,MX,ES,XX,,1,ivory carvings,,E,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,MX,US,XX,,4,bone carvings,,Q,W
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,MY,NL,XX,,2,ivory carvings,,E,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NO,GB,XX,97,97,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NO,PT,XX,,32,ivory carvings,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NZ,AU,XX,1000,,specimens,ml,Z,W
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NZ,DE,CA,40,40,specimens,ml,B,F
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,NZ,GB,,32,,ivory carvings,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,QA,GB,XX,,1,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,RU,GB,XX,,10,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,RU,GE,RU,,2,live,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,RU,MM,,3,4,live,,Q,C
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,SG,GB,XX,1,,ivory pieces,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,TH,LK,,,170,specimens,,S,W
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,TH,US,XX,,1,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,TH,US,XX,,3,ivory pieces,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,TH,US,,2,,leather products (large),,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,TH,US,,2,,leather products (small),,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,AT,XX,1,,ivory carvings,,T,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,AU,XX,1,,teeth,,Q,U
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,AU,,1,,live,,Z,C
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CA,IL,151,,specimens,ml,M,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CA,MM,151,,specimens,ml,M,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CA,TH,151,,specimens,ml,M,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CA,XX,8,,ivory pieces,,Q,W
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CA,,2,,live,,Z,C
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CA,,211,,specimens,ml,M,F
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CA,,907,,specimens,ml,M,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CA,,187,,specimens,,S,C
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CN,XX,30,,ivory pieces,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CN,XX,3,,tusks,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,CN,,1,,jewellery - ivory ,,P,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,DK,IN,,6,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,GB,LK,,1,ivory carvings,,E,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,GB,LK,1,,ivory pieces,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,GB,XX,1,1,feet,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,GB,XX,6,,ivory carvings,,P,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,GB,XX,1,,ivory carvings,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,GB,XX,,7,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,GB,,1,,ivory pieces,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,HK,XX,,3,ivory carvings,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,IN,XX,17,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,IN,,,16,specimens,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,KH,,1,,jewellery - ivory ,,P,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,KW,XX,1,,ivory pieces,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,LA,,2,,teeth,,T,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,MX,XX,4,,bone carvings,,Q,W
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,TH,XX,1,,ivory carvings,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,TH,XX,3,,ivory pieces,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,TH,,,3,leather products (large),,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,TH,,,1,leather products (small),,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,TH,,0.6,,meat,kg,P,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,TH,,8,,meat,,P,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,TH,,2,,tusks,,T,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,UA,XX,52,,piano keys,,P,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,VN,,133,,jewellery - ivory ,,P,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,VN,,1,,jewellery - ivory ,,P,U
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,VN,,5,,jewellery - ivory ,,T,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,US,VN,,1,,ivory carvings,,P,I
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,VN,GB,XX,,2,ivory carvings,,T,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,XX,DE,XX,,1,live,,Q,O
+2018,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,ZA,GB,XX,,2,ivory carvings,,T,O

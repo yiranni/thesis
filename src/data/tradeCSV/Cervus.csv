@@ -1,0 +1,10 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Cervus elaphus,Mammalia,Artiodactyla,Cervidae,Cervus,BR,AT,,1,,bodies,,E,C
+2018,II,Cervus elaphus,Mammalia,Artiodactyla,Cervidae,Cervus,BR,CH,,91,,leather products (small),,T,C
+2018,II,Cervus elaphus,Mammalia,Artiodactyla,Cervidae,Cervus,BR,FR,,5,,garments,,T,W
+2018,II,Cervus elaphus,Mammalia,Artiodactyla,Cervidae,Cervus,BR,IT,,73,,garments,,T,C
+2018,II,Cervus elaphus bactrianus,Mammalia,Artiodactyla,Cervidae,Cervus,IL,CZ,,,1,live,,Z,C
+2018,II,Cervus elaphus bactrianus,Mammalia,Artiodactyla,Cervidae,Cervus,IL,DE,,,1,live,,Z,C
+2018,II,Cervus elaphus bactrianus,Mammalia,Artiodactyla,Cervidae,Cervus,IL,EE,,,3,live,,Z,C
+2018,II,Cervus elaphus bactrianus,Mammalia,Artiodactyla,Cervidae,Cervus,IL,EE,,,6,specimens,,Z,C
+2018,III,Cervus elaphus barbarus,Mammalia,Artiodactyla,Cervidae,Cervus,TH,ZA,,1,,bodies,,T,F

@@ -1,0 +1,14 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Pongo spp.,Mammalia,Primates,Hominidae,Pongo,KZ,RU,,,1,live,,Q,C
+2018,I,Pongo abelii,Mammalia,Primates,Hominidae,Pongo,DE,US,ID,,1,teeth,,S,W
+2018,I,Pongo abelii,Mammalia,Primates,Hominidae,Pongo,IL,DE,,,2,live,,Z,C
+2018,I,Pongo abelii,Mammalia,Primates,Hominidae,Pongo,US,DE,,1,1,live,,Z,C
+2018,I,Pongo abelii,Mammalia,Primates,Hominidae,Pongo,US,DK,XX,,1,specimens,,Z,O
+2018,I,Pongo abelii,Mammalia,Primates,Hominidae,Pongo,VN,DE,,,1,live,,Z,C
+2018,I,Pongo pygmaeus,Mammalia,Primates,Hominidae,Pongo,CN,ID,,4,,live,,Z,C
+2018,I,Pongo pygmaeus,Mammalia,Primates,Hominidae,Pongo,CN,KR,,3,,live,,Z,C
+2018,I,Pongo pygmaeus,Mammalia,Primates,Hominidae,Pongo,CN,TH,,1,,live,,Z,C
+2018,I,Pongo pygmaeus,Mammalia,Primates,Hominidae,Pongo,DE,US,ID,,5,teeth,,S,W
+2018,I,Pongo pygmaeus,Mammalia,Primates,Hominidae,Pongo,DE,US,MY,,1,teeth,,S,W
+2018,I,Pongo pygmaeus,Mammalia,Primates,Hominidae,Pongo,KZ,RU,,1,,live,,Q,C
+2018,I,Pongo pygmaeus,Mammalia,Primates,Hominidae,Pongo,UZ,SY,,2,,live,,Z,C

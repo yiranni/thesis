@@ -1,0 +1,23 @@
+{
+  "name": "thesis",
+  "version": "1.0.0",
+  "description": "1. Schumaker, Robert P., Osama K. Solieman, and Hsinchun Chen. Sports Data Mining. New York: Springer, 2010.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiranni/thesis.git"
+  },
+  "author": "Yiran Ni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiranni/thesis/issues"
+  },
+  "homepage": "https://github.com/yiranni/thesis#readme",
+  "dependencies": {
+    "convert-csv-to-json": "0.0.15",
+    "fs": "0.0.1-security"
+  }
+}

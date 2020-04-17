@@ -1,0 +1,80 @@
+[
+    {
+        "virus": "yellow fever virus",
+        "families": [
+            {
+                "family-name": "Felidae",
+                "genus": [
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    },
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    },
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    }
+                ]
+            },
+            {
+                "family-name": "Felidae",
+                "genus": [
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    },
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    },
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "virus": "Ebola Virus",
+        "families": [
+            {
+                "family-name": "Felidae",
+                "genus": [
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    },
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    },
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    }
+                ]
+            },
+            {
+                "family-name": "Felidae",
+                "genus": [
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    },
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    },
+                    {
+                        "genus-name": "Acinonyx",
+                        "direct": true
+                    }
+                ]
+            }
+        ]
+    }
+]

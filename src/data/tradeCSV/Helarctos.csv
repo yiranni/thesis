@@ -1,0 +1,7 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Helarctos malayanus,Mammalia,Carnivora,Ursidae,Helarctos,DE,US,ID,,1,teeth,,S,W
+2018,I,Helarctos malayanus,Mammalia,Carnivora,Ursidae,Helarctos,DE,US,IN,,1,teeth,,S,W
+2018,I,Helarctos malayanus,Mammalia,Carnivora,Ursidae,Helarctos,DE,US,TH,,1,teeth,,S,W
+2018,I,Helarctos malayanus,Mammalia,Carnivora,Ursidae,Helarctos,GB,VN,XX,2,,specimens,,S,I
+2018,I,Helarctos malayanus,Mammalia,Carnivora,Ursidae,Helarctos,US,CN,,1,,claws,,P,I
+2018,I,Helarctos malayanus,Mammalia,Carnivora,Ursidae,Helarctos,US,LA,,2,,medicine,,P,I

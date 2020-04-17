@@ -1,0 +1,4 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,III,Hyaena hyaena,Mammalia,Carnivora,Hyaenidae,Hyaena,BY,DE,,,1,live,,Z,C
+2018,III,Hyaena hyaena,Mammalia,Carnivora,Hyaenidae,Hyaena,US,LB,,2,,specimens,,S,W
+2018,III,Hyaena hyaena,Mammalia,Carnivora,Hyaenidae,Hyaena,US,TZ,,1,1,trophies,,H,W

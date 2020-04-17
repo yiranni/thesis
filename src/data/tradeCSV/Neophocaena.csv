@@ -1,0 +1,8 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Neophocaena phocaenoides,Mammalia,Cetacea,Phocoenidae,Neophocaena,CN,GB,CN,,1,bodies,,E,W
+2018,I,Neophocaena phocaenoides,Mammalia,Cetacea,Phocoenidae,Neophocaena,CN,GB,CN,,1,skeletons,,E,W
+2018,I,Neophocaena phocaenoides,Mammalia,Cetacea,Phocoenidae,Neophocaena,CN,TH,,,40,skins,,S,W
+2018,I,Neophocaena phocaenoides,Mammalia,Cetacea,Phocoenidae,Neophocaena,CN,TH,,40,,specimens,,S,W
+2018,I,Neophocaena phocaenoides,Mammalia,Cetacea,Phocoenidae,Neophocaena,GB,CN,,1,,bodies,,E,W
+2018,I,Neophocaena phocaenoides,Mammalia,Cetacea,Phocoenidae,Neophocaena,GB,CN,,1,,skeletons,,E,W
+2018,I,Neophocaena phocaenoides,Mammalia,Cetacea,Phocoenidae,Neophocaena,GB,CN,,,6,specimens,,E,W

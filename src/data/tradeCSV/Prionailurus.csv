@@ -1,0 +1,16 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,SG,TH,,,2,live,,Z,C
+2018,II,Prionailurus spp.,Mammalia,Carnivora,Felidae,Prionailurus,BR,US,,,2,live,,P,F
+2018,II,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,CH,IT,CN,2,2,garments,,T,W
+2018,II,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,HK,JP,CN,,3,garments,,T,W
+2018,II,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,JP,HK,CN,42,,garments,,T,W
+2018,II,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,US,CA,CN,4,,garments,,T,W
+2018,II,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,US,CA,,1,,live,,P,C
+2018,II,Prionailurus bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,US,IT,CN,2,2,garments,,T,W
+2018,II,Prionailurus bengalensis bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,HK,JP,CN,3,,garments,,T,W
+2018,II,Prionailurus bengalensis bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,JP,HK,CN,,7,garments,,T,W
+2018,II,Prionailurus bengalensis bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,US,GB,,1,,live,,P,C
+2018,II,Prionailurus bengalensis bengalensis,Mammalia,Carnivora,Felidae,Prionailurus,US,HK,CN,3,3,garments,,T,W
+2018,II,Prionailurus rubiginosus,Mammalia,Carnivora,Felidae,Prionailurus,US,CZ,GB,1,,live,,T,I
+2018,II,Prionailurus rubiginosus,Mammalia,Carnivora,Felidae,Prionailurus,US,SK,GB,1,1,live,,T,C
+2018,II,Prionailurus viverrinus,Mammalia,Carnivora,Felidae,Prionailurus,PA,GB,,,2,live,,T,C

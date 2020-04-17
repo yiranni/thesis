@@ -1,0 +1,17 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,BD,CD,,,9,live,,T,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,BD,UZ,CD,,2,live,,T,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,BD,UZ,CD,,2,live,,Z,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,BJ,CD,,,11,live,,T,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,CN,CD,,,30,live,,T,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,CN,UZ,CD,,20,live,,T,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,CN,UZ,CD,,26,live,,Z,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,KZ,RU,,1,,live,,Q,C
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,KZ,RU,,,1,live,,Q,F
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,PK,CD,,,10,live,,T,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,TH,CD,,4,9,live,,T,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,UA,CD,,,8,live,,T,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,US,CD,,1,,specimens,,S,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,UZ,CD,,52,52,live,,T,W
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,ZA,PL,,,3,live,,Z,C
+2018,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,ZA,PL,,,3,live,,Z,F

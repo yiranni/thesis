@@ -1,0 +1,4 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Melursus ursinus,Mammalia,Carnivora,Ursidae,Melursus,IN,NP,IN,1,,live,,L,I
+2018,I,Melursus ursinus,Mammalia,Carnivora,Ursidae,Melursus,US,DE,,2,2,live,,Z,F
+2018,I,Melursus ursinus,Mammalia,Carnivora,Ursidae,Melursus,US,GB,XX,1,1,bodies,,T,O

@@ -1,0 +1,7 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,III,Nasua narica,Mammalia,Carnivora,Procyonidae,Nasua,US,MX,,3,,trophies,,H,W
+2018,III,Nasua narica,Mammalia,Carnivora,Procyonidae,Nasua,US,MX,,27,,trophies,,P,W
+2018,III,Nasua nasua,Mammalia,Carnivora,Procyonidae,Nasua,CN,GY,,,3,live,,T,W
+2018,III,Nasua nasua,Mammalia,Carnivora,Procyonidae,Nasua,US,GY,,1,12,live,,T,W
+2018,III,Nasua nasua solitaria,Mammalia,Carnivora,Procyonidae,Nasua,UA,RU,,,2,live,,,
+2018,III,Nasua nasua solitaria,Mammalia,Carnivora,Procyonidae,Nasua,US,GY,,4,,live,,T,W

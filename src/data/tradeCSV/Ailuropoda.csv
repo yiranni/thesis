@@ -1,0 +1,10 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,CN,AT,CN,,1,bodies,,E,F
+2018,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,CN,AT,,,2,live,,Z,C
+2018,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,CN,ES,CN,,46.5,specimens,ml,S,C
+2018,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,CN,FR,CN,,19.25,specimens,ml,S,F
+2018,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,CN,FR,,38.50,,specimens,ml,Z,C
+2018,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,CN,US,CN,,1,live,,Z,F
+2018,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,CN,US,,18.5,,specimens,ml,Z,C
+2018,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,DE,US,CN,,5,teeth,,S,W
+2018,I,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,FI,CN,,2,,live,,S,C

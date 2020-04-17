@@ -1,0 +1,11 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,CN,FR,XX,1,,bodies,,T,O
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,CN,SR,,2,,live,,B,W
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,CN,SR,,68,,live,,Z,W
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,DE,BR,,,2,live,,Z,F
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,SG,GB,,1,,live,,Z,C
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,US,FR,BR,1,,specimens,,S,W
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,US,FR,CO,1,,specimens,,S,W
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,US,FR,XX,1,,specimens,,S,W
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,US,NL,XX,,1,carvings,,E,O
+2018,II,Myrmecophaga tridactyla,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,US,SR,,2,,live,,T,W

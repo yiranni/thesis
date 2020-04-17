@@ -1,0 +1,15 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Hylobates spp.,Mammalia,Primates,Hylobatidae,Hylobates,US,FR,XX,1,,skulls,,T,I
+2018,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,CN,FR,MO,,2,bodies,,T,U
+2018,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,CN,FR,XX,2,,bodies,,T,U
+2018,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,GB,JE,GB,,1,specimens,,S,F
+2018,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,TR,FR,,,1,live,,Z,C
+2018,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,US,FR,,,1,live,,Z,C
+2018,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,US,FR,,,1,live,,Z,F
+2018,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,UZ,KZ,,1,,live,,Z,C
+2018,I,Hylobates lar,Mammalia,Primates,Hylobatidae,Hylobates,ZA,FR,,,2,live,,Z,F
+2018,I,Hylobates muelleri,Mammalia,Primates,Hylobatidae,Hylobates,CN,MY,,,8,live,,S,C
+2018,I,Hylobates muelleri,Mammalia,Primates,Hylobatidae,Hylobates,CN,MY,,8,,live,,Z,I
+2018,I,Hylobates pileatus,Mammalia,Primates,Hylobatidae,Hylobates,RU,FR,,1,1,live,,Z,C
+2018,I,Hylobates pileatus,Mammalia,Primates,Hylobatidae,Hylobates,SG,FR,,2,2,live,,Z,C
+2018,I,Hylobates pileatus,Mammalia,Primates,Hylobatidae,Hylobates,SG,FR,,,2,live,,Z,F

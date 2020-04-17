@@ -1,0 +1,12 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Galago demidoff,Mammalia,Primates,Galagidae,Galago,CN,FR,MO,,1,bodies,,T,O
+2018,II,Galago demidoff,Mammalia,Primates,Galagidae,Galago,TH,BJ,,32,,live,,T,W
+2018,II,Galago demidoff,Mammalia,Primates,Galagidae,Galago,TH,TG,,30,,live,,T,W
+2018,II,Galago moholi,Mammalia,Primates,Galagidae,Galago,TH,CD,,4,,live,,T,W
+2018,II,Galago moholi,Mammalia,Primates,Galagidae,Galago,TH,ZA,,60,,live,,B,C
+2018,II,Galago moholi,Mammalia,Primates,Galagidae,Galago,TH,ZA,,80,,live,,T,C
+2018,II,Galago senegalensis,Mammalia,Primates,Galagidae,Galago,CN,FR,MO,,1,bodies,,T,O
+2018,II,Galago senegalensis,Mammalia,Primates,Galagidae,Galago,CN,FR,NL,,1,bodies,,T,F
+2018,II,Galago senegalensis,Mammalia,Primates,Galagidae,Galago,CN,FR,,1,,bodies,,T,F
+2018,II,Galago senegalensis,Mammalia,Primates,Galagidae,Galago,TH,TG,,3,,live,,T,F
+2018,II,Galago senegalensis,Mammalia,Primates,Galagidae,Galago,TH,TG,,91,,live,,T,W

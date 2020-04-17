@@ -1,0 +1,18 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,AU,GB,XX,,1,feet,,T,O
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,CH,AT,,1,1,live,,Z,W
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,CH,PL,,1,1,live,,Z,C
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,CZ,RU,,,2,skins,,H,W
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,DE,UA,,1,,live,,Z,C
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,HR,RS,ME,,1,bones,,E,O
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,HR,RS,ME,,1,skulls,,E,O
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,RS,HR,ME,1,,bones,,E,O
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,RS,HR,ME,1,,skulls,,E,O
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,RU,CZ,,,2,live,,Z,W
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,SE,RU,,,1,live,,Z,C
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,US,GB,XX,11,11,bodies,,T,O
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,US,PT,,1,,skins,,S,W
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,US,PT,,1,,skulls,,S,W
+2018,I,Lutra lutra,Mammalia,Carnivora,Mustelidae,Lutra,US,PT,,1,1,specimens,,S,W
+2018,II,Lutra spp.,Mammalia,Carnivora,Mustelidae,Lutra,US,CA,,1,,skins,,H,W
+2018,II,Lutra spp.,Mammalia,Carnivora,Mustelidae,Lutra,US,CA,,4,,skins,,P,W

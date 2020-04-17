@@ -1,0 +1,27 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,BE,XX,4,,scales,,T,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,BE,XX,1,,skins,,T,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,BE,XX,1,,skin pieces,,T,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,CN,XX,7,,medicine,,P,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,CN,XX,23,,medicine,,T,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,CN,,60,,fur product (small),,P,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,HK,XX,24,,medicine,,T,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,LA,,0.008,,scales,kg,P,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,MX,,9,,leather products (small),,P,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,TH,,2,,scales,kg,T,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,VN,,1980,,medicine,ml,P,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,VN,,583,,medicine,,P,I
+2018,I,Manis spp.,Mammalia,Pholidota,Manidae,Manis,US,VN,,20,,medicine,,T,I
+2018,I,Manis gigantea,Mammalia,Pholidota,Manidae,Manis,CZ,CG,,16,,specimens,,S,W
+2018,I,Manis javanica,Mammalia,Pholidota,Manidae,Manis,FR,US,SG,,1,specimens,,S,W
+2018,I,Manis javanica,Mammalia,Pholidota,Manidae,Manis,KR,NL,XX,,2,scales,,E,O
+2018,I,Manis pentadactyla,Mammalia,Pholidota,Manidae,Manis,FR,US,XX,,12,specimens,,S,W
+2018,I,Manis pentadactyla,Mammalia,Pholidota,Manidae,Manis,US,CN,,1,,medicine,,T,I
+2018,I,Manis pentadactyla,Mammalia,Pholidota,Manidae,Manis,US,FR,TW,1,,specimens,,S,W
+2018,I,Manis pentadactyla,Mammalia,Pholidota,Manidae,Manis,US,VN,,1985,,medicine,,P,I
+2018,I,Manis tetradactyla,Mammalia,Pholidota,Manidae,Manis,US,FR,XX,1,,specimens,,S,W
+2018,I,Manis tricuspis,Mammalia,Pholidota,Manidae,Manis,CZ,CG,,42,,specimens,,S,W
+2018,I,Manis tricuspis,Mammalia,Pholidota,Manidae,Manis,FR,US,KE,,1,specimens,,S,W
+2018,I,Manis tricuspis,Mammalia,Pholidota,Manidae,Manis,FR,US,LR,,1,specimens,,S,W
+2018,I,Manis tricuspis,Mammalia,Pholidota,Manidae,Manis,FR,US,SL,,1,specimens,,S,W
+2018,I,Manis tricuspis,Mammalia,Pholidota,Manidae,Manis,US,FR,SL,1,,specimens,,S,W

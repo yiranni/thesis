@@ -1,0 +1,4 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Fossa fossana,Mammalia,Carnivora,Eupleridae,Fossa,AM,MG,,,10,live,,T,W
+2018,II,Fossa fossana,Mammalia,Carnivora,Eupleridae,Fossa,MU,MG,,,2,live,,T,W
+2018,II,Fossa fossana,Mammalia,Carnivora,Eupleridae,Fossa,TH,MG,,,4,live,,T,W

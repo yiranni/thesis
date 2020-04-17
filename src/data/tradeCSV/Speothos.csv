@@ -1,0 +1,6 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Speothos venaticus,Mammalia,Carnivora,Canidae,Speothos,RU,DE,,2,2,live,,Z,C
+2018,I,Speothos venaticus,Mammalia,Carnivora,Canidae,Speothos,RU,DK,,,1,live,,B,C
+2018,I,Speothos venaticus,Mammalia,Carnivora,Canidae,Speothos,RU,DK,,1,,live,,Z,C
+2018,I,Speothos venaticus,Mammalia,Carnivora,Canidae,Speothos,US,CZ,,1,1,live,,Z,C
+2018,I,Speothos venaticus,Mammalia,Carnivora,Canidae,Speothos,US,FR,,1,1,live,,Z,C

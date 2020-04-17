@@ -1,0 +1,18 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Microcebus spp.,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,MG,,,17,specimens,g,S,W
+2018,I,Microcebus spp.,Mammalia,Primates,Cheirogaleidae,Microcebus,US,DE,MG,,1.38,specimens,ml,S,W
+2018,I,Microcebus spp.,Mammalia,Primates,Cheirogaleidae,Microcebus,US,DE,MG,46,,specimens,,S,W
+2018,I,Microcebus berthae,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,MG,,45,45,specimens,mg,S,W
+2018,I,Microcebus gerpi,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,MG,,,14,specimens,g,S,W
+2018,I,Microcebus griseorufus,Mammalia,Primates,Cheirogaleidae,Microcebus,US,DE,MG,,7.41,specimens,ml,S,W
+2018,I,Microcebus griseorufus,Mammalia,Primates,Cheirogaleidae,Microcebus,US,DE,MG,247,,specimens,,S,W
+2018,I,Microcebus lehilahytsara,Mammalia,Primates,Cheirogaleidae,Microcebus,CZ,CH,,4,,live,,Z,C
+2018,I,Microcebus murinus,Mammalia,Primates,Cheirogaleidae,Microcebus,CN,FR,NL,,1,bodies,,T,C
+2018,I,Microcebus murinus,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,MG,,3288.2,509,specimens,g,S,W
+2018,I,Microcebus murinus,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,MG,,320,320,specimens,mg,S,W
+2018,I,Microcebus murinus,Mammalia,Primates,Cheirogaleidae,Microcebus,KR,FR,,,12,specimens,g,M,C
+2018,I,Microcebus ravelobensis,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,MG,,4612.6,688,specimens,g,S,W
+2018,I,Microcebus rufus,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,CH,,2,,live,,B,C
+2018,I,Microcebus sambiranensis,Mammalia,Primates,Cheirogaleidae,Microcebus,DE,MG,,60,60,specimens,,S,W
+2018,I,Microcebus tavaratra,Mammalia,Primates,Cheirogaleidae,Microcebus,PT,MG,,,88.04,specimens,g,S,W
+2018,I,Microcebus tavaratra,Mammalia,Primates,Cheirogaleidae,Microcebus,PT,MG,,0.176,,specimens,kg,S,W

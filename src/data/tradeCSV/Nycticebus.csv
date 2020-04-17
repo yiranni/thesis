@@ -1,0 +1,5 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Nycticebus spp.,Mammalia,Primates,Lorisidae,Nycticebus,JP,MM,,,24,hair products,g,S,W
+2018,I,Nycticebus bengalensis,Mammalia,Primates,Lorisidae,Nycticebus,GB,LB,XX,1,,live,,Z,I
+2018,I,Nycticebus coucang,Mammalia,Primates,Lorisidae,Nycticebus,JP,MM,,24,,hair,g,S,W
+2018,I,Nycticebus pygmaeus,Mammalia,Primates,Lorisidae,Nycticebus,DE,VN,,72,,specimens,,S,W

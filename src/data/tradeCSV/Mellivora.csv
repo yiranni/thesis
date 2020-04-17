@@ -1,0 +1,27 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,BE,ZA,,1,,bodies,,P,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,BR,AT,,1,,bodies,,E,C
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,CA,NA,,,1,trophies,,P,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,CZ,ZA,,2,,live,,T,C
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,DE,ZA,,2,,trophies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,ES,ZA,,2,,bodies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,ES,ZA,,1,,skins,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,ES,ZA,,3,,trophies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,FR,ZA,,1,,trophies,,,
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,GB,ZA,,1,,skins,,,
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,NO,ZA,,1,,trophies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,NZ,ZA,,1,,bodies,,T,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,RU,TZ,,,1,trophies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,RU,ZW,,,1,trophies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,NA,,1,1,trophies,,P,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,NA,1,,trophies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,1,,skins,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,2,,trophies,,H,I
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZA,,49,,trophies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZW,ZA,1,,trophies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZW,ZA,1,,trophies,,P,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZW,,1,1,skins,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZW,,1,2,skulls,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZW,,1,,trophies,,H,I
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,US,ZW,,17,10,trophies,,H,W
+2018,III,Mellivora capensis,Mammalia,Carnivora,Mustelidae,Mellivora,ZA,ZW,,,1,skulls,,H,W

@@ -1,0 +1,5 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Pygathrix cinerea,Mammalia,Primates,Cercopithecidae,Pygathrix,DE,VN,,18,,specimens,,S,W
+2018,I,Pygathrix nemaeus,Mammalia,Primates,Cercopithecidae,Pygathrix,DE,VN,,125,,specimens,,S,W
+2018,I,Pygathrix nemaeus,Mammalia,Primates,Cercopithecidae,Pygathrix,SG,TH,,,3,live,,Z,C
+2018,I,Pygathrix nigripes,Mammalia,Primates,Cercopithecidae,Pygathrix,DE,VN,,10,,specimens,,S,W

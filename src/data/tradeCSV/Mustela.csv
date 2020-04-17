@@ -1,0 +1,90 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Mustela nigripes,Mammalia,Carnivora,Mustelidae,Mustela,US,CA,US,4,,live,,S,C
+2018,I,Mustela nigripes,Mammalia,Carnivora,Mustelidae,Mustela,US,CA,,8,,live,,S,C
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,AU,DE,CN,,0.08342,hair,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,AU,DE,CN,,555.473,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,AU,DE,CN,,0.03134,hair products,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,AU,ES,CN,,219,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,AU,FR,CN,,2270,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,BR,DE,CN,,3.4,hair,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,BR,DE,RU,,0.785,hair products,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,BR,DE,XX,2.4,,hair,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CA,DE,CN,,10,garments,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CA,DE,CN,,20.751,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CA,DE,CN,,24.88,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CA,ES,CN,,122.84,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CA,US,CN,,4391,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CN,DE,RU,,98,fur products (large),,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CN,ES,CN,,1635.37,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CN,ES,CN,696.9,,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CZ,RU,,11,,live,,T,C
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CZ,RU,,11,,live,,,C
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,CZ,RU,,,11,live,,,
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,DE,CN,,172,,garments,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,DE,CN,,52.486,,hair,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,DE,CN,,23.724,,live,kg,T,U
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,DE,RU,,1364,,skins,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,DE,RU,,,2100,tails,,,
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,GB,CN,,303,,hair,kg,,
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,GB,US,CN,,3,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,HK,US,XX,,80,hair products,,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,ID,DE,CN,,43.221,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,IL,ES,CN,,147.261,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,IL,FR,CN,,2209,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,JE,GB,RU,,3648,hair,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,JP,DE,CN,,463.435,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,JP,DE,CN,,0.1715,hair products,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,JP,ES,CN,,184.1,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,JP,FR,CN,,593,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,JP,IT,CN,,1,garments,,P,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,KR,ES,CN,,98.291,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,MY,DE,CN,,167.634,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,NL,RU,,,7,live,,,
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,NO,DE,CN,,0.07,hair,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,NO,DE,RU,0.17,,hair,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,NO,DE,RU,0.13,0.804,hair products,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,NZ,DE,CN,,96.031,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,NZ,DE,CN,0.0109,,hair products,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,RU,DE,CN,,62,plates,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,RU,US,RU,,2,fur product (small),,P,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,SA,DE,CN,,174.59,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,SG,DE,CN,,159.730,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,SG,ES,CN,,112.96,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,CN,,7,,hair,kg,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,DE,CN,20,,hair products,,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,DE,RU,,139.531,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,DE,RU,2,21.8218,hair,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,DE,RU,1531,,hair,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,DE,RU,,7679.7052,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,DE,RU,28886.010,10.480,hair products,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,DE,RU,3624,,hair products,,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,DE,RU,54143,,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,ES,CN,,2653.28,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,ES,CN,280.889,,hair,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,ES,CN,1098,,hair,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,ES,CN,1.194,,hair products,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,ES,CN,1011,,hair products,,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,ES,CN,3696,,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,ES,XX,1032,,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,FR,CN,750,,hair,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,FR,CN,,750,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,FR,RU,296,,hair products,,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,GB,CN,1560,,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,GB,RU,,0.2,hair,kg,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,GB,RU,1,,hair,,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,GB,RU,22242,86067,hair,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,GB,RU,3909,,hair products,,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,GB,RU,57964,,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,GB,RU,4612,,leather products (small),,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,HU,CN,350,,hair,,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,HU,XX,1,,hair products,,T,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,LK,CN,,2674.7,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,LK,CN,14251,,hair,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,LK,CN,,218,hair products,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,LK,CN,13460,,hair products,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,LK,JP,504,,hair products,,T,C
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,LK,XX,,162,hair,g,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,LK,XX,,0.576,hair,,T,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,RU,,2,,fur product (small),,P,W
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,US,SE,XX,1,,hair products,,P,I
+2018,III,Mustela sibirica,Mammalia,Carnivora,Mustelidae,Mustela,ZA,DE,CN,,5,plates,,T,W

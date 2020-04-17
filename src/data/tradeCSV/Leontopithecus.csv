@@ -1,0 +1,16 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,CN,CZ,DE,,4,live,,T,C
+2018,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,CN,CZ,DK,,1,live,,T,C
+2018,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,CN,CZ,,6,,live,,B,C
+2018,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,CN,CZ,,,1,live,,T,C
+2018,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,DK,CH,ES,,1,live,,T,C
+2018,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,DK,CH,ES,1,,live,,Z,C
+2018,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,GB,JE,BR,,1,bodies,,S,C
+2018,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,TH,BE,CZ,,2,live,,T,C
+2018,I,Leontopithecus chrysomelas,Mammalia,Primates,Cebidae,Leontopithecus,TH,BE,CZ,2,,live,,Z,C
+2018,I,Leontopithecus chrysopygus,Mammalia,Primates,Cebidae,Leontopithecus,GB,JE,GB,,4,specimens,,S,C
+2018,I,Leontopithecus chrysopygus,Mammalia,Primates,Cebidae,Leontopithecus,GB,JE,,,4,specimens,,S,C
+2018,I,Leontopithecus chrysopygus,Mammalia,Primates,Cebidae,Leontopithecus,US,BR,,,1,specimens,,S,C
+2018,I,Leontopithecus rosalia,Mammalia,Primates,Cebidae,Leontopithecus,CN,DE,,,2,live,,Z,C
+2018,I,Leontopithecus rosalia,Mammalia,Primates,Cebidae,Leontopithecus,CW,NL,,,1,bodies,,E,F
+2018,I,Leontopithecus rosalia,Mammalia,Primates,Cebidae,Leontopithecus,HK,DE,,2,,live,,Z,C

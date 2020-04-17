@@ -1,0 +1,1838 @@
+[
+    {
+        "family": "Felidae",
+        "genus": [
+            {
+                "genus_name": "Acinonyx",
+                "common_name": "Cheetah ",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Caracal",
+                "common_name": "Caracal",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Felis",
+                "common_name": "Cat",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Leptailurus",
+                "common_name": "Cat",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Lynx",
+                "common_name": "Cat",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Otocolobus",
+                "common_name": "Pallas cat ",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Panthera",
+                "common_name": "Great cats",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Prionailurus",
+                "common_name": "feline",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Puma",
+                "common_name": "feline",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Ursidae",
+        "genus": [
+            {
+                "genus_name": "Ailuropoda ",
+                "common_name": "Giant panda ",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Helarctos",
+                "common_name": "Sun bear",
+                "virus_carried": []
+            },
+            {
+                "genus_name": "Melursus",
+                "common_name": "Sloth bear ",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Ursus",
+                "common_name": "bear",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Mustelidae",
+        "genus": [
+            {
+                "genus_name": "Aonyx",
+                "common_name": "Clawless otter",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Eira",
+                "common_name": "Tayra",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Galictis",
+                "common_name": "Grison",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Lutra",
+                "common_name": "Otter ",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Mellivora",
+                "common_name": "Badger",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Mustela",
+                "common_name": "Weasel",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "SARS",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Pteronura",
+                "common_name": "otter",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Aotidae",
+        "genus": [
+            {
+                "genus_name": "Aotus",
+                "common_name": "Monkey",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Cebidae",
+        "genus": [
+            {
+                "genus_name": "Callithrix",
+                "common_name": "Monkey",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "LymphocyticChoriomeningitisVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Cebus",
+                "common_name": "Monkey",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "LymphocyticChoriomeningitisVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Leontopithecus",
+                "common_name": "Monkey",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "LymphocyticChoriomeningitisVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Saguinus",
+                "common_name": "tamarin",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "LymphocyticChoriomeningitisVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Canidae ",
+        "genus": [
+            {
+                "genus_name": "Canis",
+                "common_name": "Canine",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Cerdocyon",
+                "common_name": "Fox",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Speothos",
+                "common_name": "canine",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Vulpes",
+                "common_name": "fox",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Bovidae",
+        "genus": [
+            {
+                "genus_name": "Cephalophus",
+                "common_name": "Duiker antelope",
+                "virus_carried": [
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "TickBorneEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Damaliscus",
+                "common_name": "Antelope",
+                "virus_carried": [
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "TickBorneEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Gazella",
+                "common_name": "Gazelle",
+                "virus_carried": [
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "TickBorneEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Hippotragus",
+                "common_name": "Antelope",
+                "virus_carried": [
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Ovis",
+                "common_name": "Sheep",
+                "virus_carried": [
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "TickBorneEncephalitisVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Delphinidae",
+        "genus": [
+            {
+                "genus_name": "Cephalorhynchus",
+                "common_name": "Dolphin",
+                "virus_carried": [
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Rhinocerotidae",
+        "genus": [
+            {
+                "genus_name": "Ceratotherium ",
+                "common_name": "White rhinoceros",
+                "virus_carried": [
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Cercopithecidae",
+        "genus": [
+            {
+                "genus_name": "Cercopithecus",
+                "common_name": "Guenon",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Chlorocebus",
+                "common_name": "Monkey",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Colobus",
+                "common_name": "Monkey ",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Lophocebus",
+                "common_name": "Mangabey",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Macaca",
+                "common_name": "Monkey",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Papio",
+                "common_name": "Baboon",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Cervidae",
+        "genus": [
+            {
+                "genus_name": "Cervus",
+                "common_name": "Deer",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Odocoileus",
+                "common_name": "Deer",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Dasypodidae",
+        "genus": [
+            {
+                "genus_name": "Chaetophractus",
+                "common_name": "Armadillo",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Chinchillidae",
+        "genus": [
+            {
+                "genus_name": "Chinchilla",
+                "common_name": "Chincilla",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Megalonychidae",
+        "genus": [
+            {
+                "genus_name": "Choloepus",
+                "common_name": "Sloth",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Viverridae",
+        "genus": [
+            {
+                "genus_name": "Civettictis",
+                "common_name": "African civet",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Cryptoprocta",
+                "common_name": "Fosa",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Fossa",
+                "common_name": "Malagasy civet ",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Paradoxurus",
+                "common_name": "Palm civet",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Dasyproctidae",
+        "genus": [
+            {
+                "genus_name": "Dasyprocta",
+                "common_name": "Agouti",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Macropodidae",
+        "genus": [
+            {
+                "genus_name": "Dendrolagus",
+                "common_name": "Kangaroo",
+                "virus_carried": []
+            }
+        ]
+    },
+    {
+        "family": "Elephantidae",
+        "genus": [
+            {
+                "genus_name": "Elephas",
+                "common_name": "Asian elephant",
+                "virus_carried": [
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Loxodonta",
+                "common_name": "African elephant ",
+                "virus_carried": [
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Equidae",
+        "genus": [
+            {
+                "genus_name": "Equus",
+                "common_name": "Horse ",
+                "virus_carried": [
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Galagidae",
+        "genus": [
+            {
+                "genus_name": "Galago",
+                "common_name": "Galago",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Herpestidae",
+        "genus": [
+            {
+                "genus_name": "Herpestes",
+                "common_name": "Mongoose",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Hippopotamidae",
+        "genus": [
+            {
+                "genus_name": "Hexaprotodon",
+                "common_name": "Pygmy hippopotamus",
+                "virus_carried": []
+            }
+        ]
+    },
+    {
+        "family": "Hyaenidae",
+        "genus": [
+            {
+                "genus_name": "Hyaena",
+                "common_name": "Hyena",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Hylobatidae",
+        "genus": [
+            {
+                "genus_name": "Hylobates",
+                "common_name": "Gibbon",
+                "virus_carried": []
+            }
+        ]
+    },
+    {
+        "family": "Ziphiidae",
+        "genus": [
+            {
+                "genus_name": "Hyperoodon",
+                "common_name": "Bottlenose whale ",
+                "virus_carried": []
+            }
+        ]
+    },
+    {
+        "family": "Manidae",
+        "genus": [
+            {
+                "genus_name": "Manis ",
+                "common_name": "Pangolin",
+                "virus_carried": []
+            }
+        ]
+    },
+    {
+        "family": "Cheirogaleidae",
+        "genus": [
+            {
+                "genus_name": "Microcebus",
+                "common_name": "Mouse lemur ",
+                "virus_carried": []
+            }
+        ]
+    },
+    {
+        "family": "Phocidae",
+        "genus": [
+            {
+                "genus_name": "Mirounga",
+                "common_name": "Elephant seal ",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Myrmecophagidae",
+        "genus": [
+            {
+                "genus_name": "Myrmecophaga",
+                "common_name": "Giant anteater ",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Tamandua",
+                "common_name": "anteater",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Procyonidae",
+        "genus": [
+            {
+                "genus_name": "Nasua",
+                "common_name": "Coati ",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Potos",
+                "common_name": "kinkajou",
+                "virus_carried": [
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Phocoenidae",
+        "genus": [
+            {
+                "genus_name": "Neophocaena",
+                "common_name": "Porpoise",
+                "virus_carried": []
+            }
+        ]
+    },
+    {
+        "family": "Loridae",
+        "genus": [
+            {
+                "genus_name": "Nycticebus",
+                "common_name": "Slow loris",
+                "virus_carried": []
+            }
+        ]
+    },
+    {
+        "family": "Hominidae",
+        "genus": [
+            {
+                "genus_name": "Pan",
+                "common_name": "Chimpanzee",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "HCPS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "HFRS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "SouthAmericanHemoorhagicFeverArenaviruses",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "LassaFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "TickBorneEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "LymphocyticChoriomeningitisVirus",
+                        "influence": "1"
+                    }
+                ]
+            },
+            {
+                "genus_name": "Pongo",
+                "common_name": "orangutan",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "HCPS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "HFRS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "SouthAmericanHemoorhagicFeverArenaviruses",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "LassaFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "TickBorneEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "LymphocyticChoriomeningitisVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Suidae",
+        "genus": [
+            {
+                "genus_name": "Potamochoerus",
+                "common_name": "afican bush pig",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "HFRS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CrimeanCongoHemorrhagicFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "VenezuelanEquineEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Pteropodidae",
+        "genus": [
+            {
+                "genus_name": "Pteropus",
+                "common_name": "bat",
+                "virus_carried": [
+                    {
+                        "virus_name": "SARS",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RiftValleyFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "TickBorneEncephalitisVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "2"
+                    },
+                    {
+                        "virus_name": "NiphaVirus",
+                        "influence": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Cerconpithecidae",
+        "genus": [
+            {
+                "genus_name": "Pygathrix",
+                "common_name": "langur",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Cercophithecidae",
+        "genus": [
+            {
+                "genus_name": "Trachypithecus",
+                "common_name": "monkey",
+                "virus_carried": [
+                    {
+                        "virus_name": "YellowFeverVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "H5N1",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "MarburgVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "EbolaVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "RabiesVirus",
+                        "influence": "1"
+                    },
+                    {
+                        "virus_name": "CercopithecineHerpesVirus",
+                        "influence": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "family": "Tupaiidae",
+        "genus": [
+            {
+                "genus_name": "Tupaia",
+                "common_name": "tree shrew",
+                "virus_carried": []
+            }
+        ]
+    }
+]

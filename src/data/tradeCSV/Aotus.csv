@@ -1,0 +1,10 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Aotus spp.,Mammalia,Primates,Aotidae,Aotus,US,BO,,17,,specimens,,S,W
+2018,II,Aotus azarae,Mammalia,Primates,Aotidae,Aotus,RU,LV,,,3,live,,Z,C
+2018,II,Aotus hershkovitzi,Mammalia,Primates,Aotidae,Aotus,FR,CH,,2,,live,,Z,C
+2018,II,Aotus lemurinus,Mammalia,Primates,Aotidae,Aotus,FR,CH,,1,,live,,Z,C
+2018,II,Aotus lemurinus,Mammalia,Primates,Aotidae,Aotus,GB,PA,,251,,specimens,,S,W
+2018,II,Aotus lemurinus,Mammalia,Primates,Aotidae,Aotus,US,CO,,,0.006,specimens,ml,S,W
+2018,II,Aotus miconax,Mammalia,Primates,Aotidae,Aotus,US,PE,,40,,specimens,,S,W
+2018,II,Aotus nancymaae,Mammalia,Primates,Aotidae,Aotus,DK,US,,16.19,16,specimens,ml,M,F
+2018,II,Aotus nancymaae,Mammalia,Primates,Aotidae,Aotus,FR,US,,15.960000038,16,specimens,ml,M,F

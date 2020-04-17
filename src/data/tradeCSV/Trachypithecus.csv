@@ -1,0 +1,14 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Trachypithecus auratus,Mammalia,Primates,Cercopithecidae,Trachypithecus,FR,SG,,,1,live,,Z,C
+2018,II,Trachypithecus auratus,Mammalia,Primates,Cercopithecidae,Trachypithecus,IL,NL,,,2,live,,Z,C
+2018,II,Trachypithecus auratus,Mammalia,Primates,Cercopithecidae,Trachypithecus,IL,RU,DE,,2,live,,Z,C
+2018,II,Trachypithecus auratus,Mammalia,Primates,Cercopithecidae,Trachypithecus,SG,BE,,1,1,live,,Z,C
+2018,II,Trachypithecus auratus,Mammalia,Primates,Cercopithecidae,Trachypithecus,US,SG,,6,6,live,,Z,C
+2018,II,Trachypithecus delacouri,Mammalia,Primates,Cercopithecidae,Trachypithecus,DE,VN,,6,,specimens,,S,W
+2018,II,Trachypithecus francoisi,Mammalia,Primates,Cercopithecidae,Trachypithecus,DE,VN,,6,,specimens,,S,W
+2018,II,Trachypithecus hatinhensis,Mammalia,Primates,Cercopithecidae,Trachypithecus,DE,VN,,36,,specimens,,S,W
+2018,II,Trachypithecus obscurus,Mammalia,Primates,Cercopithecidae,Trachypithecus,CN,FR,NL,,2,bodies,,T,F
+2018,II,Trachypithecus obscurus,Mammalia,Primates,Cercopithecidae,Trachypithecus,CN,FR,,1,,bodies,,T,F
+2018,II,Trachypithecus obscurus,Mammalia,Primates,Cercopithecidae,Trachypithecus,RU,UZ,,,1,live,,Z,C
+2018,II,Trachypithecus phayrei,Mammalia,Primates,Cercopithecidae,Trachypithecus,DE,US,TH,,20,specimens,,S,W
+2018,II,Trachypithecus poliocephalus,Mammalia,Primates,Cercopithecidae,Trachypithecus,DE,VN,,19,,specimens,,S,W

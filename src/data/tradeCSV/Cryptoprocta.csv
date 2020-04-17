@@ -1,0 +1,6 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Cryptoprocta ferox,Mammalia,Carnivora,Eupleridae,Cryptoprocta,AE,DE,US,,1,live,,Z,F
+2018,II,Cryptoprocta ferox,Mammalia,Carnivora,Eupleridae,Cryptoprocta,ID,DE,,,1,live,,Z,C
+2018,II,Cryptoprocta ferox,Mammalia,Carnivora,Eupleridae,Cryptoprocta,RU,DE,,,2,live,,Z,C
+2018,II,Cryptoprocta ferox,Mammalia,Carnivora,Eupleridae,Cryptoprocta,SG,GB,DE,1,2,live,,Z,C
+2018,II,Cryptoprocta ferox,Mammalia,Carnivora,Eupleridae,Cryptoprocta,SG,IE,FR,1,1,live,,Z,C

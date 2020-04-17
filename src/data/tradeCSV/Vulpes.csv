@@ -1,0 +1,19 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,CN,SD,,90,,live,,B,W
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,CN,SD,,390,,live,,T,W
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,CN,SD,,40,,live,,Z,W
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,JP,RU,,,3,live,,Z,C
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,JP,US,SD,,4,live,,T,C
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,KR,BE,NL,,1,bodies,,T,C
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,MY,XX,SD,62,,live,,T,W
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,TH,SD,,15,,live,,T,C
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,TH,SD,,110,,live,,T,W
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,US,PT,MR,5,5,specimens,,S,W
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,US,SD,SS,20,,live,,T,W
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,US,SD,,38,,live,,T,I
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,US,SD,,324,,live,,T,W
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,US,SS,,20,,live,,T,W
+2018,II,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,US,ZA,,9,,live,,T,F
+2018,III,Vulpes vulpes,Mammalia,Carnivora,Canidae,Vulpes,HK,TH,FI,,2,leather products (large),,T,W
+2018,III,Vulpes vulpes,Mammalia,Carnivora,Canidae,Vulpes,SG,TH,FI,,1,leather products (large),,T,W
+2018,III,Vulpes vulpes,Mammalia,Carnivora,Canidae,Vulpes,TH,IT,FI,2,,leather products (large),,T,W

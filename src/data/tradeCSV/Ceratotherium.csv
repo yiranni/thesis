@@ -1,0 +1,59 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Ceratotherium spp.,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CH,RO,XX,,1,carvings,,P,O
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BW,ZA,,10,,live,,N,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CD,NA,,,17,live,,N,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CN,NA,,2,3,trophies,,H,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,DE,NA,,,2,trophies,,H,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,GB,BW,,,48,hair,g,S,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,GB,BW,,,104,skins,g,S,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,GB,BW,,,688,specimens,g,S,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,MY,XX,AU,1,,specimens,,S,C
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,NA,ZA,,16,,live,,N,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SK,NA,,,3,trophies,,H,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,GB,XX,1,,bodies,,T,O
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,GB,XX,,1,trophies,,T,O
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,NA,,2,,horns,,H,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,NA,,3,3,trophies,,H,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,3,,trophies,,H,W
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,ZA,MY,XX,,45,specimens,,L,I
+2018,I,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,ZA,NA,,,201,specimens,,S,W
+2018,I,Ceratotherium simum cottoni,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,HK,FR,MO,,2,horn carvings,,T,O
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CD,NA,,17,,live,,N,W
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CD,ZW,,10,,live,,N,W
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,DE,NA,,2,,trophies,,H,W
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,GB,BW,,840,,specimens,g,S,W
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,GB,HK,XX,1,1,horn carvings,,T,O
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,HK,GB,XX,1,1,horn carvings,,T,O
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SK,NA,,2,,trophies,,H,W
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,TR,AT,AT,,2,live,,B,C
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,TR,AT,,2,,live,,Z,C
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,TR,FR,,1,1,live,,Z,C
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,1,,trophies,,H,W
+2018,I,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,ZA,KE,,,3.42,specimens,kg,S,W
+2018,II,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BG,ZA,,1,,trophies,,H,W
+2018,II,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,JP,ZA,,4,,live,,Z,C
+2018,II,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,NA,ZA,,4,,live,,N,W
+2018,II,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,PL,ZA,,1,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,BG,ZA,,3,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CH,ZA,,1,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CN,ZA,,7,,live,,Z,C
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CN,ZA,,9,,live,,Z,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CN,ZA,,4,,leather products (small),,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CN,ZA,,1,,skeletons,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,CN,ZA,,8,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,DE,ZA,,1,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,EE,ZA,,1,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,ES,ZA,,3,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,FR,ZA,,1,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,FR,ZA,,1,,trophies,,P,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SE,ZA,,1,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,SK,ZA,,2,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,4,,feet,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,8,,horns,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,1,,skeletons,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,4,,skin pieces,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,2,,skulls,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,US,ZA,,36,,trophies,,H,W
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,ZA,MZ,,,10,live,,P,
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,ZA,PL,ZA,,2,horns,,L,I
+2018,II,Ceratotherium simum simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,ZA,ZM,,,5,specimens,,S,W

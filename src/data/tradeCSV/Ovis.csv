@@ -1,0 +1,64 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Ovis gmelini,Mammalia,Artiodactyla,Bovidae,Ovis,AU,US,,,1,trophies,,H,I
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,BE,TJ,,1,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,CH,AT,TJ,1,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,DE,KG,,1,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,DE,MN,,7,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,DE,TJ,,5,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,DK,KG,,1,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,ES,KG,,4,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,ES,MN,,9,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,ES,TJ,,3,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,FR,MN,,1,,trophies,,P,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,HR,RS,MN,,1,skulls,,E,O
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,LV,KG,,1,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,MN,DE,MN,,1,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,MX,RU,TJ,,2,skins,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,RS,HR,MN,1,,skulls,,E,O
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,US,BE,TJ,,1,trophies,,P,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,US,CA,TJ,1,,trophies,,E,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,US,KG,,68,,specimens,,S,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,US,KG,,7,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,US,MN,,12,,trophies,,H,W
+2018,II,Ovis ammon,Mammalia,Artiodactyla,Bovidae,Ovis,US,TJ,,6,,trophies,,H,W
+2018,II,Ovis aries,Mammalia,Artiodactyla,Bovidae,Ovis,ES,PK,,2,,trophies,,H,W
+2018,II,Ovis aries,Mammalia,Artiodactyla,Bovidae,Ovis,ES,PK,,1,,trophies,,P,W
+2018,II,Ovis aries,Mammalia,Artiodactyla,Bovidae,Ovis,MX,ES,PK,,1,trophies,,H,W
+2018,II,Ovis aries,Mammalia,Artiodactyla,Bovidae,Ovis,US,IR,,3,,trophies,,H,W
+2018,II,Ovis aries,Mammalia,Artiodactyla,Bovidae,Ovis,US,PK,,4,,trophies,,H,W
+2018,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,ES,PK,,,3,trophies,,H,W
+2018,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,LV,PK,,,1,trophies,,H,W
+2018,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,MX,PK,,,2,trophies,,H,W
+2018,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,NZ,PK,,,2,trophies,,H,W
+2018,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,RU,PK,,,3,trophies,,H,W
+2018,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,PK,,,10,trophies,,H,W
+2018,II,Ovis bochariensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,TJ,,3,,trophies,,H,W
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,AU,US,MX,,1,trophies,,H,W
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,ES,MX,,1,,trophies,,H,C
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,MX,US,MX,,1,trophies,,H,W
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,ME,MX,1,,trophies,,H,W
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,MX,XX,1,,trophies,,H,W
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,MX,,19,,horns,,P,W
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,MX,,1,,trophies,,H,C
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,MX,,136,,trophies,,H,W
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,MX,,32,,trophies,,P,W
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,NA,MX,1,,trophies,,H,C
+2018,II,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,NA,MX,3,,trophies,,H,W
+2018,II,Ovis cycloceros arkal,Mammalia,Artiodactyla,Bovidae,Ovis,RU,US,,,1,trophies,,H,F
+2018,II,Ovis cycloceros arkal,Mammalia,Artiodactyla,Bovidae,Ovis,US,CI,XX,160,,horns,,T,W
+2018,II,Ovis cycloceros arkal,Mammalia,Artiodactyla,Bovidae,Ovis,US,IR,,3,,trophies,,H,W
+2018,II,Ovis cycloceros cycloceros,Mammalia,Artiodactyla,Bovidae,Ovis,NZ,PK,,2,,trophies,,H,W
+2018,II,Ovis darwini,Mammalia,Artiodactyla,Bovidae,Ovis,HU,MN,,1,,trophies,,H,W
+2018,II,Ovis darwini,Mammalia,Artiodactyla,Bovidae,Ovis,US,MN,,15,,trophies,,H,W
+2018,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,AU,AT,TJ,,1,trophies,,H,W
+2018,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,CH,AT,TJ,,1,trophies,,H,W
+2018,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,DK,KG,,2,,trophies,,H,W
+2018,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,FR,KG,,1,,trophies,,P,W
+2018,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,IT,TJ,,5,,trophies,,H,W
+2018,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,LU,KG,,1,,trophies,,H,W
+2018,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,PL,KG,,1,,trophies,,H,W
+2018,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,US,KG,,19,,trophies,,H,W
+2018,II,Ovis polii,Mammalia,Artiodactyla,Bovidae,Ovis,US,TJ,,50,,trophies,,H,W
+2018,II,Ovis punjabiensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,PK,,9,,trophies,,H,W
+2018,II,Ovis punjabiensis,Mammalia,Artiodactyla,Bovidae,Ovis,US,TR,PK,1,,trophies,,H,W
+2018,II,Ovis severtzovi,Mammalia,Artiodactyla,Bovidae,Ovis,RU,UZ,,,1,trophies,,H,W

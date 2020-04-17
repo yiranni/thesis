@@ -1,0 +1,24 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,III,Herpestes javanicus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,AF,,13,specimens,,S,W
+2018,III,Herpestes javanicus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,IR,,3,specimens,,S,W
+2018,III,Herpestes javanicus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,JM,,4,skulls,,S,W
+2018,III,Herpestes javanicus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,PK,,1,skulls,,S,W
+2018,III,Herpestes javanicus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,AF,5,,specimens,,S,I
+2018,III,Herpestes javanicus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,AF,6,,specimens,,S,W
+2018,III,Herpestes javanicus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,IR,1,,specimens,,S,I
+2018,III,Herpestes javanicus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,IR,1,,specimens,,S,W
+2018,III,Herpestes javanicus,Mammalia,Carnivora,Herpestidae,Herpestes,US,TH,,1,,meat,,P,I
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,AG,,2,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,IN,,7,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,JM,,1,skulls,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,NP,,3,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,XX,,13,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,FR,US,,,16,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,AG,2,,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,IN,2,,specimens,,S,I
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,IN,5,,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,JM,1,,skulls,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,KN,12,,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,NP,3,,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,US,16,,specimens,,S,W
+2018,III,Herpestes javanicus auropunctatus,Mammalia,Carnivora,Herpestidae,Herpestes,US,FR,XX,1,,specimens,,S,W

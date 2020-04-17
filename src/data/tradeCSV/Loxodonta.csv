@@ -1,0 +1,702 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,I,Loxodonta spp.,Mammalia,Proboscidea,Elephantidae,Loxodonta,OM,US,XX,1,,ivory carvings,,L,I
+2018,I,Loxodonta spp.,Mammalia,Proboscidea,Elephantidae,Loxodonta,OM,US,XX,1,,leather products (small),,L,I
+2018,I,Loxodonta spp.,Mammalia,Proboscidea,Elephantidae,Loxodonta,OM,US,XX,1,,tusks,,L,I
+2018,I,Loxodonta spp.,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,IN,,,2,specimens,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,CH,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,FR,MO,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,CA,XX,7,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,CA,XX,26,,piano keys,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,CH,XX,,7,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,CH,XX,1,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,JP,,,1,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,LI,XX,3,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,LI,XX,1,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,NO,XX,50,50,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,US,XX,,23,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,US,XX,,16,ivory pieces,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,ZM,,1,,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,BE,CD,,1,skulls,,H,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,DE,LR,,2,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,DE,XX,,2,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,FR,,,800,ivory carvings,g,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,GB,XX,,6,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,GB,XX,,71,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,GB,XX,,92,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,NZ,MW,,34,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,NZ,XX,,136,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,NZ,XX,,52,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AU,US,XX,,32,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,CH,XX,1,,tusks,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,US,CI,,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,US,XX,,59,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,US,XX,,23,ivory carvings,,T,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,US,XX,,9,leather products (small),,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,NA,,14,,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,ZW,,22,,skin pieces,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,ZW,,8,,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BS,FR,MO,,90,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,AT,XX,,7,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,AT,XX,,26,piano keys,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,CH,XX,,1,unspecified,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,DE,XX,,0.33,ivory carvings,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,DE,XX,,2,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,FR,MO,,2.5,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,GB,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,GB,XX,,104,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,KE,XX,,32,ivory carvings,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,SG,XX,,149,ivory pieces,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,US,XX,,17,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,US,XX,,1,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,AT,XX,4,4,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,AT,XX,3,3,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,CM,CM,2,,tusks,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,CM,,1,,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,TZ,,0.8,piano keys,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,TZ,104,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,,400,ivory carvings,g,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,,1.415,ivory carvings,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,,1.5,ivory carvings,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,4,4,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,400,,piano keys,g,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,,400,piano keys,g,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,,2,piano keys,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,,1.6,piano keys,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,520,104,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,DE,XX,676,53,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,FR,CN,,2,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,FR,MO,,1,jewellery - ivory ,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,FR,MO,,4.666666667,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,FR,MO,,202,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,FR,TZ,1,1,ivory carvings,,E,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,FR,XX,1,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,FR,XX,2,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,GB,XX,2,2,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,GB,XX,5,3,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,IT,XX,,88,ivory pieces,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,IT,XX,52,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,IT,XX,104,,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,MA,XX,1,,unspecified,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,MZ,,1,2,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,NL,XX,,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,NL,XX,52,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,US,XX,1,2,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CL,ES,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CL,ES,,1,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,DE,XX,,2.8,ivory carvings,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,DE,XX,,5,piano keys,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,FR,MO,,2,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,FR,MO,,104,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,GB,XX,,17,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,GB,XX,,3,ivory carvings,,T,U
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,IT,XX,,2,tusks,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CO,TZ,ZA,20,,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,AU,XX,52,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,BW,,5,ivory pieces,,S,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,BW,2,2,tusks,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,SD,,2,tusks,,P,U
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,SD,2,,tusks,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,TZ,4,,ivory pieces,,S,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,TZ,2,,tusks,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,TZ,,4,tusks,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,XX,3,2,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,XX,,1,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,XX,1,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,XX,1,1,ivory pieces,,S,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,XX,104,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,XX,105,312,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,ZA,,2,ivory pieces,,S,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CN,XX,1,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,JE,XX,,3,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,KR,XX,6,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,NA,CG,4,,tusks,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,NA,,,4,tusks,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,NO,XX,52,52,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,TZ,,2,2,tusks,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,US,XX,2,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,US,XX,,1,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,US,XX,1,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,US,XX,,350,piano keys,g,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,US,XX,144,144,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZM,,,1,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DK,NA,,2,,tusks,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DK,ZW,,8,,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DK,ZW,,2,,tusks,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,EG,GB,XX,,6,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,CH,XX,,52,piano keys,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,CH,XX,,1,tusks,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,US,XX,,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,ZA,XX,11.054,,ivory carvings,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,AR,MO,5,,jewellery - ivory ,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,AR,MO,240,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,AU,MO,1,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,BM,ZA,52,52,piano keys,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,BR,MO,52,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,BR,,,104,ivory pieces,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,MO,3,,jewellery - ivory ,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,MO,4.666666667,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,MO,52,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,MO,104,,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,TZ,1,1,ivory carvings,,E,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,XX,,7,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,XX,,156,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,XX,,1,unspecified,,Q,U
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,XX,,2,unspecified,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,FR,CG,1,1,tusks,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,GG,XX,,14,ivory carvings,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,MX,MO,2,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,NZ,XX,,20,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,SG,MO,2,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,TZ,,2,,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,TZ,,3,,trophies,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,US,CG,,1,bone carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,US,MO,6,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,US,MO,137,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,US,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,US,XX,,19,ivory pieces,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,US,XX,,1,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZA,CI,30,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,AU,XX,1,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,AU,XX,52,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,BR,XX,7,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,BR,,,14,ivory pieces,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,CH,XX,2,2,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,CH,XX,4,5,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,CN,XX,,10,ivory carvings,kg,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,CN,XX,14,18,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,GG,XX,,66,ivory carvings,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,HK,XX,19,20,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,IM,XX,2,2,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,JE,NL,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,JE,XX,,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,JE,XX,89,91,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,JE,,,5,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,KE,,,2.1,specimens,kg,S,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,MY,GB,,2,trophies,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,MY,XX,2,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,NZ,GB,,17,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,NZ,MW,,7,jewellery - ivory ,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,NZ,MW,,17,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,NZ,MW,,2,tusks,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,NZ,XX,,86,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,NZ,XX,,52,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,NZ,XX,52,52,piano keys,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,RU,XX,2,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,TZ,,1,2,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,US,XX,,5,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,US,XX,1,100,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,US,XX,,1,ivory pieces,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,US,XX,,8,ivory pieces,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,US,XX,,13,ivory pieces,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,US,XX,104,104,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,US,XX,,1,piano keys,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,US,XX,,2,leather products (small),,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,UY,MX,2,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,UY,,,2,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,XX,102,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,348,,hair,,S,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,25,,specimens,,S,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZM,,1,1,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GG,JE,XX,,37,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GG,JE,XX,3,,ivory carvings,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GH,SE,GH,,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,CH,XX,1,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,CH,XX,2,,tusks,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,FR,MO,,16.5,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,FR,XX,15,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,GB,SD,12,12,ivory carvings,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,GB,TZ,52,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,GB,TZ,,52,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,GB,XX,21,20,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,GB,XX,120,113,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,GB,XX,,52,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,GG,XX,,2,ivory carvings,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,IT,XX,,1,ivory carvings,,T,U
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,IT,XX,2,,tusks,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,NL,XX,16,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,PT,AO,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,PT,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,US,XX,,2,ivory carvings,,T,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HR,RS,TZ,2,2,tusks,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HR,RS,XX,,1,skulls,,E,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HU,US,XX,1,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HU,US,,,1,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IL,GB,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IQ,JO,,2,,live,,E,U
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IS,DE,XX,,0.4,piano keys,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,AR,XX,47,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,CN,KE,34391.2,,ivory carvings,g,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,GG,XX,,8,ivory carvings,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,HK,KE,,34.392,ivory carvings,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZM,,1,2,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JE,GG,XX,,4,ivory carvings,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JO,IQ,,,2,tusks,,E,U
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,AT,XX,,1,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,AT,XX,,1,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,AT,,1,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,AT,,1,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,TZ,1,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,TZ,,0.4,piano keys,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,TZ,0.8,1.2,piano keys,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,XX,,0.4,ivory carvings,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,XX,,0.813,ivory carvings,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,XX,,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,XX,,3,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,XX,,400,piano keys,g,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,XX,,18.34,piano keys,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,XX,,56,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,,18,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,DE,,13.10,,piano keys,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,ES,KE,,52,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,FR,MO,,1,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,FR,MO,,52,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,FR,MO,,100,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,FR,,1,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,FR,,0.5,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,FR,,1,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,GB,XX,,9,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,GB,XX,,3,ivory carvings,,T,U
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,GB,XX,,43,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,GB,XX,,360,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,GB,,1,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,GB,,17,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,GB,,1,,ivory pieces,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,GG,XX,,2,ivory carvings,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,RO,XX,,52,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,US,XX,,4,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,US,,23,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,US,,4,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KE,XX,XX,1,,ivory pieces,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KR,AT,XX,,4,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KR,GB,XX,,9,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KR,GB,XX,,201,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KR,US,XX,,2,ivory pieces,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,LB,GB,GB,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,LB,GB,XX,,3,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,LI,DE,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MC,CH,XX,,5,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MC,DE,NA,,1,live,,Q,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MC,DE,XX,,1,live,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MC,DE,ZW,,3,live,,Q,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MC,FR,MO,,2,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MC,GB,XX,,5,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MK,BE,ZW,,1,live,,Z,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MT,GA,,3,,tusks,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,AT,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,DK,TZ,,0.4,ivory carvings,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,GB,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,TZ,,,2,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,US,XX,,1,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MY,GB,XX,,52,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NL,FR,MO,,0.185000002,ivory carvings,m,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NL,US,XX,,1,ivory pieces,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,GB,XX,2,6,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,US,XX,,1,derivatives,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,AU,,20,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,GB,XX,,3,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,GB,XX,,104,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,GB,,3,,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,GB,,52,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,HK,,0.0024,,ivory pieces,kg,L,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,OM,GB,XX,5,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,OM,US,XX,,1,ivory carvings,,L,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,OM,US,XX,,1,skin pieces,,L,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,OM,US,XX,,1,tusks,,L,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PH,ES,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PL,CH,XX,,52,piano keys,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PL,US,XX,,7,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,CA,XX,1,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PT,US,PL,,1,ivory carvings,cm,T,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RS,HR,XX,1,,skulls,,E,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RS,MZ,,,1,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,AT,XX,,2,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,FI,BW,,1,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,FR,MO,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,FR,TZ,,5,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,GB,XX,,79,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,JP,,,3,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,MZ,,1,1,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,TZ,,1,,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SE,US,XX,,22,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SG,GB,XX,,4,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SG,GB,XX,1,,ivory pieces,,E,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SG,GB,XX,3,,ivory pieces,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SG,GG,XX,,5,ivory carvings,,T,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SG,US,XX,1,,ivory pieces,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SG,US,XX,,1,ivory pieces,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,TR,DE,XX,,0.4,piano keys,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,TR,GB,XX,,52,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,TZ,RU,XX,,2,tusks,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,UA,AT,XX,,2,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,AO,XX,70,,ivory pieces,,S,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,AT,SD,1,1,tails,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,BE,CD,14,14,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,BE,CI,1,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,BE,NA,,2,tusks,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,BE,XX,50,,piano keys,,P,U
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,BG,GH,,2,ivory carvings,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,BS,XX,52,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,CA,CG,3,,ivory carvings,,Q,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,CA,XX,279,,ivory carvings,,T,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,CA,XX,52,,piano keys,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,CD,XX,0.3,,specimens,kg,S,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,CH,XX,,50,unspecified,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,CI,,2,,ivory pieces,kg,S,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,DE,XX,37,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,DE,XX,52,,ivory pieces,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,DE,XX,,0.725,piano keys,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,DE,XX,,52,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,DE,XX,22,,leather products (small),,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,DK,XX,,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ES,XX,,1,ivory carvings,,E,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ES,XX,1,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ES,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ES,XX,1,,ivory pieces,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ES,,1,,ivory carvings,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,FR,MO,,2.5,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,FR,XX,4,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,FR,XX,39,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,FR,XX,1,,ivory carvings,,T,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,FR,XX,20,,ivory pieces,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,3,,ivory carvings,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,1,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,1,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,12,,ivory carvings,,T,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,,111,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,8,,ivory pieces,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,15,,ivory pieces,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,52,228,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,180,212,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,XX,1,,leather products (small),,T,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,,100,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,,1,,ivory carvings,,P,U
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,,176,,piano keys,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GH,,1,,jewellery - ivory ,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,IL,XX,46,,leather products (small),,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,IN,XX,2,,jewellery - ivory ,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,IN,XX,2,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,IT,XX,1,,ivory carvings,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,JP,XX,23,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,KE,,,10,live,g,S,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,MX,XX,1,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,MX,,4,,leather products (small),,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,MY,XX,,90,powder,,S,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,NG,,9,,jewellery - ivory ,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,NG,,4,,ivory carvings,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,NL,XX,1,,ivory pieces,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,NO,XX,1,,derivatives,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,PL,XX,7,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,SE,XX,29,,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,SG,XX,,253,ivory pieces,,L,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,SG,XX,253,,ivory pieces,,S,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,XX,21,,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,1,,bone carvings,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,52,,ivory carvings,,P,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,7,,jewellery,,P,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,5,,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,2,,tusks,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZM,,2,2,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,100,,jewellery,,T,I
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,2,,tusks,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,UY,FR,MO,,8,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,VN,DE,XX,,6,piano keys,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XV,BE,US,,1,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XV,BE,XX,,7,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XV,BE,XX,,11,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XV,BE,XX,,1,ivory pieces,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XV,CH,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,DE,XX,,0.035,ivory carvings,kg,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,DE,XX,,0.494,ivory carvings,kg,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,DE,XX,,5,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,DE,XX,,11,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,DK,XX,,72,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,ES,XX,,1,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,GB,XX,,9,ivory carvings,,P,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,IT,XX,,3,ivory carvings,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,MZ,,,1,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,US,XX,,19,ivory pieces,,Q,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,DE,XX,,0.1,ivory carvings,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,DE,XX,,1,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,DE,XX,,1,piano keys,g,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,GB,XX,,6,ivory carvings,,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,IT,XX,,1,ivory carvings,kg,T,O
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,MZ,,,1,skin pieces,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,MZ,,,5,trophies,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,MZ,,,2,tusks,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,MZ,,,80,unspecified,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,TZ,,,2,tusks,,H,W
+2018,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,ZM,,,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,FR,ZW,,3,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZW,,,268,ivory carvings,g,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZW,,,4,live,,Z,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AE,ZW,,,4,leather products (small),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AO,NA,,,2,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AR,ES,ZW,,11,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AR,ES,ZW,,1,trophies,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AR,ZW,,,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,NA,,,2,leather products (small),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,NA,,1,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,ZA,,3,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,ZA,,2,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,ZW,,2,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,AT,ZW,,20,10,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BE,ZW,,2,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BG,ZA,,3,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,NA,,14,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,ZW,,22,,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,BR,ZW,,8,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,IT,ZW,,2,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,NA,,,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,ZW,,,9,hair,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,ZW,,,11,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,ZW,,,2,skins,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,ZW,,,4,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,ZW,,,33,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CD,NA,,,6,live,,N,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,MC,ZA,3,,derivatives,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,MC,ZA,6,,hair products,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,MC,ZA,5,,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,ZA,ZW,3,,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,ZA,,50,,hair,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,ZA,,10,,skin pieces,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,ZA,,2,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,ZA,,1,,tusks,,T,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,ZW,,,27.8,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CH,ZW,,2,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,FR,ZW,3,3,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,IT,ZW,,35,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,IT,ZW,,1,skins,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,JP,ZW,,15,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,JP,ZW,,10,skins,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,NA,,,3,leather products (large),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,3,,bodies,,E,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZA,,5,,leather products (large),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZW,,,384,bones,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZW,,,2,ears,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZW,,,3,leather products (large),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZW,,,8,leather products (small),,P,R
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZW,,,513,leather products (small),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZW,,,210,leather products (small),,Q,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZW,,,21,skins,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZW,,,52,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CN,ZW,,,8,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CZ,NA,,1,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CZ,ZW,,,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,BW,5,,ivory pieces,,S,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CH,ZA,2,,ivory pieces,,S,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,NA,,4,,skin pieces,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,NA,,2,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,NA,,6,1,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZA,,2,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZW,,,4,feet,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZW,,,1,ivory carvings,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZW,,,2,skins,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZW,,7,,skin pieces,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZW,,,5,skin pieces,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZW,,1,1,tails,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZW,,12,5,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZW,,,95,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,ZW,,14,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DK,NA,,,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DK,ZW,,,4,feet,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DK,ZW,,,8,leather products (large),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DK,ZW,,,1,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DK,ZW,,,10,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DK,ZW,,,31,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,DZ,ZW,,,670,ivory carvings,g,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,EG,ZW,,,3,ears,,Q,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,EG,ZW,,,147,leather products (small),,Q,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,NA,,1,,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,NA,,1,4,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,NA,,10,1,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,ZW,,2,2,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,ZW,,3,1,tails,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,ZW,,22,13,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,ZW,,,218,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ES,ZW,,19,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FI,ZA,,1,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,BR,,,104,ivory pieces,,P,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,XX,1,,jewellery - ivory ,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,CH,XX,,1,ivory carvings,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,JP,ZW,1,1,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,MC,ZA,73,,derivatives,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,MC,ZA,313,,hair products,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,NA,,,3,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,NA,,4,,trophies,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,US,XX,,4,ivory pieces,,T,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZW,,,6,ivory carvings,kg,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZW,,2,7,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZW,,5,,trophies,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,FR,ZW,,,61,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,BR,,,14,ivory pieces,,T,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,NA,,1,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,2,,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,1,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZA,,2,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZW,,,2,bones,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZW,,,0.56,ivory carvings,g,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZW,,,2,skins,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZW,,1,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,GB,ZW,,,9,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,FR,MO,,2,ivory carvings,,T,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,FR,ZW,,1,leather products (large),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,FR,ZW,3,,leather products (small),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,FR,ZW,4,16,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,IT,ZW,1,,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,IT,ZW,1,,skins,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,ZW,,,62,ears,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,ZW,,62,,skins,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HK,ZW,,,1,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HU,ZW,,,6,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HU,ZW,,,10,leather products (large),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HU,ZW,,,43,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HU,ZW,,21,5,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,HU,ZW,,,270,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IN,ZW,,,5.424,ivory carvings,kg,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IR,ZW,,,875,ivory carvings,g,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,US,ZA,,15,skins,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZW,,,2,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZW,,79,,plates,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZW,,,1,skin pieces,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZW,,,79,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZW,,,1,tails,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZW,,,2,trophies,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZW,,19,23,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,IT,ZW,,,80,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,FR,ZW,3,3,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,IT,ZW,250,342,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,KR,ZW,106,,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,SG,ZW,,21,skins,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,ZW,,502,,skins,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,JP,ZW,,,455,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KP,ZW,,,3,leather products (small),,P,R
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KW,ZA,,2,,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KW,ZA,,7,,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,KW,ZA,,1,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,LT,ZW,,2,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MO,IT,ZW,33,,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MU,ZW,,,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,NA,,,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,ZW,,,5,bones,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,ZW,,,4,feet,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,ZW,,,5,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,ZW,,,716,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,ZW,,,16,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,ZW,,,65,trunk,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,MX,ZW,,,19,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NA,ZA,,32,,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NA,ZW,,,201,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,GB,XX,4,,ivory carvings,,T,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,IT,XX,1,,ivory carvings,,T,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,NA,,,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,NA,,2,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,NL,XX,52,,piano keys,,T,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,ZW,,,8,leather products (large),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,ZW,,,5,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,ZW,,,7,skins,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,ZW,,,2,teeth,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,ZW,,,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NO,ZW,,,11,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,NA,,1,,feet,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,NA,,,1,leather products (large),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZA,,2,,piano keys,,P,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZW,,2,,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZW,,3,,hair products,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZW,,,1,leather products (large),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZW,,6,3,skins,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZW,,,3,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZW,,,31,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,NZ,ZW,,4,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PK,NA,,,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PL,ZA,,1,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PL,ZW,,5,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,PL,ZW,,,42,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RO,ZW,,,1,ears,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RO,ZW,,1,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,FR,ZW,,2,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,IT,ZW,,32,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZW,,,2,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZW,,,4,feet,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZW,,,116,ivory carvings,g,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZW,,,7.2475,ivory carvings,kg,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZW,,,1,ivory carvings,,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZW,,,3,leather products (small),,P,R
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZW,,,1,trophies,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZW,,,14,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,RU,ZW,,,79.2,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SE,NA,,,5,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SE,NA,,,2,leather products (small),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SE,NA,,1,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SE,NA,,1,1,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SE,ZW,,,1,leather products (large),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SE,ZW,,,4,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SE,ZW,,3,7,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SG,AT,ZW,,2,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SG,ZW,,,1,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SK,NA,,1,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SK,ZA,,1,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SK,ZW,,1,2,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SK,ZW,,,37,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,SK,ZW,,2,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,TR,ZA,,1,,ivory carvings,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,TR,ZA,,8,,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,TR,ZA,,1,,tails,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,TR,ZA,,2,,teeth,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,TR,ZA,,2,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,TR,ZW,,,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,UA,ZW,,,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,CA,ZW,2,,specimens,l,Z,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,CD,,,300,specimens,g,S,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,NA,1,,piano keys,,P,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,ZW,2,,leather products (large),,P,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,ZW,2,2,leather products (large),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,GB,ZW,2,,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,IT,ZW,,2,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,IT,,2,,leather products (small),,T,I
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,LU,XX,,5,ivory carvings,,P,O
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,MX,XX,8,,leather products (small),,T,I
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,MX,ZA,4649,,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,MX,ZA,1,,skins,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,MX,ZW,204,,leather products (small),,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,NA,,4,,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,NA,,1,1,feet,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,NA,,14,1,skins,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,NA,,18,46,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,NA,,,1,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,ZW,184,,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,1,,bone carvings,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,2,,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,8,,feet,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,2120,,hair,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,6,,skin pieces,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,2,,tails,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,17,,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZA,,4,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,2,,ears,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,38,,ears,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,4,,feet,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,1,,jewellery,,P,I
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,3,,leather products (large),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,9,,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,5,,skins,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,7,,skin pieces,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,1244,1516,skin pieces,,T,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,1,,skulls,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,1,,tails,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,1,1,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,,49,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,US,ZW,,2,,tusks,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,XX,MZ,XX,,50,live,,N,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,NA,,,3,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,ZW,,,1,bones,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,ZW,,,65,derivatives,,S,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,ZW,,,2,leather products (small),,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,ZW,,,2,skins,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,ZW,,,1,tails,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,ZW,,,4,teeth,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,ZW,,,19,trophies,,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZA,ZW,,,514,tusks,kg,H,W
+2018,II,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,ZM,ZW,,,54,leather products (small),,T,W
+2019,I,Loxodonta spp.,Mammalia,Proboscidea,Elephantidae,Loxodonta,DE,CO,XX,,6,trophies,,P,O
+2019,I,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,CA,RS,ZM,,11,tusks,,P,O

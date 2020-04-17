@@ -1,0 +1,7 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Hexaprotodon liberiensis,Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,CL,AR,SG,1,,live,,Z,C
+2018,II,Hexaprotodon liberiensis,Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,DE,US,CI,,1,teeth,,S,W
+2018,II,Hexaprotodon liberiensis,Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,DE,US,LR,,1,teeth,,S,W
+2018,II,Hexaprotodon liberiensis,Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,DE,US,XX,,3,teeth,,S,W
+2018,II,Hexaprotodon liberiensis,Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,FR,CH,,1,,live,,Z,C
+2018,II,Hexaprotodon liberiensis,Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,RU,DK,,,1,live,,Z,C

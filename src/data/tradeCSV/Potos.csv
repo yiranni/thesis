@@ -1,0 +1,4 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,III,Potos flavus,Mammalia,Carnivora,Procyonidae,Potos,CN,GY,,20,18,live,,T,W
+2018,III,Potos flavus,Mammalia,Carnivora,Procyonidae,Potos,US,GY,SR,4,,live,,T,W
+2018,III,Potos flavus,Mammalia,Carnivora,Procyonidae,Potos,US,GY,,96,81,live,,T,W

@@ -1,0 +1,79 @@
+genus,name,family,yellow fever virus,SARS,H5N1,HCPS,HFRS,South American hemorrhagic fever arenaviruses,Rift Valley fever virus,Marburg virus,Lassa fever virus,Ebola viruses,Crimean-Congo hemorrhagic fever virus,Tick-borne encephalitis virus complex,Venezuelan equine encephalitis virus,Rabies viruses,Nipah virus,Cercopithecine herpesvirus-1 ,Lymphocytic choriomeningitis virus
+Acinonyx,Cheetah ,Felidae,0,1,1,0,0,0,1,0,0,0,1,0,0,2,1,0,0
+Ailuropoda ,Giant panda ,Ursidae,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aonyx,Clawless otter,Mustelidae,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aotus,Monkey,Aotidae,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0
+Callithrix,Monkey,Cebidae,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2
+Canis,Canine,Canidae ,0,1,2,0,0,0,2,0,0,0,2,0,2,2,2,0,0
+Caracal,Caracal,Felidae,0,1,1,0,0,0,1,0,0,0,1,0,0,2,1,0,0
+Cebus,Monkey,Cebidae,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1
+Cephalophus,Duiker antelope,Bovidae,0,0,0,0,0,0,1,0,0,2,1,1,1,1,0,0,0
+Cephalorhynchus,Dolphin,Delphinidae,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Ceratotherium ,White rhinoceros,Rhinocerotidae,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0
+Cercopithecus,Guenon,Cercopithecidae,2,0,1,0,0,0,0,2,0,1,0,0,0,1,0,1,0
+Cerdocyon,Fox,Canidae ,0,1,1,0,0,0,1,0,0,0,1,0,1,2,1,0,0
+Cervus,Deer,Cervidae,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Chaetophractus,Armadillo,Dasypodidae,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Chinchilla,Chincilla,Chinchillidae,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Chlorocebus,Monkey,Cercopithecidae,1,0,1,0,0,0,0,2,0,1,0,0,0,1,0,2,0
+Choloepus,Sloth,Megalonychidae,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Civettictis,African civet,Viverridae,0,1,1,0,0,0,0,0,0,0,1,0,0,2,0,0,0
+Colobus,Monkey ,Cercopithecidae,2,0,1,0,0,0,0,1,0,1,0,0,0,2,0,2,0
+Cryptoprocta,Fosa,Viverridae,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Damaliscus,Antelope,Bovidae,0,0,0,0,0,0,1,0,0,1,2,1,1,2,0,0,0
+Dasyprocta,Agouti,Dasyproctidae,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dendrolagus,Kangaroo,Macropodidae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eira,Tayra,Mustelidae,2,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Elephas,Asian elephant,Elephantidae,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0
+Equus,Horse ,Equidae,0,0,0,0,0,0,2,0,0,0,2,0,2,2,0,0,0
+Felis,Cat,Felidae,0,2,2,0,0,0,2,0,0,0,2,0,0,2,2,0,0
+Fossa,Malagasy civet ,Viverridae,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Galago,Galago,Galagidae,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Galictis,Grison,Mustelidae,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Gazella,Gazelle,Bovidae,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0
+Helarctos,Sun bear,Ursidae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Herpestes,Mongoose,Herpestidae,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Hexaprotodon,Pygmy hippopotamus,Hippopotamidae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hippotragus,Antelope,Bovidae,0,0,0,0,0,0,2,0,0,1,2,0,0,2,0,0,0
+Hyaena,Hyena,Hyaenidae,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Hylobates,Gibbon,Hylobatidae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyperoodon,Bottlenose whale ,Ziphiidae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leontopithecus,Monkey,Cebidae,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+Leptailurus,Cat,Felidae,0,1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0
+Lophocebus,Mangabey,Cercopithecidae,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0
+Loxodonta,African elephant ,Elephantidae,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0
+Lutra,Otter ,Mustelidae,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lynx,Cat,Felidae,0,1,1,0,0,0,1,0,0,0,1,0,0,2,1,0,0
+Macaca,Monkey,Cercopithecidae,2,0,2,0,0,0,0,1,0,2,0,0,0,1,0,2,0
+Manis ,Pangolin,Manidae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mellivora,Badger,Mustelidae,1,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Melursus,Sloth bear ,Ursidae,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Microcebus,Mouse lemur ,Cheirogaleidae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mirounga,Elephant seal ,Phocidae,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mustela,Weasel,Mustelidae,2,2,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Myrmecophaga,Giant anteater ,Myrmecophagidae,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nasua,Coati ,Procyonidae,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Neophocaena,Porpoise,Phocoenidae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nycticebus,Slow loris,Loridae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odocoileus,Deer,Cervidae,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Otocolobus,Pallas cat ,Felidae,0,1,1,0,0,0,1,0,0,0,2,0,0,1,1,0,0
+Ovis,Sheep,Bovidae,0,0,0,0,0,0,2,0,0,1,2,2,1,2,0,0,0
+Pan,Chimpanzee,Hominidae,2,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1
+Panthera,Great cats,Felidae,0,1,2,0,0,0,2,0,0,0,1,0,0,1,1,0,0
+Papio,Baboon,Cercopithecidae,1,0,1,0,0,0,0,2,0,2,0,0,0,1,0,2,0
+Paradoxurus,Palm civet,Viverridae,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Pongo,orangutan,Hominidae,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Potamochoerus,afican bush pig,Suidae,0,1,1,0,1,0,0,0,0,1,1,0,1,1,0,0,0
+Potos,kinkajou,Procyonidae,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Prionailurus,feline,Felidae,0,2,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0
+Pteronura,otter,Mustelidae,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Pteropus,bat,Pteropodidae,0,1,0,0,0,0,1,1,0,1,0,1,0,2,2,0,0
+Puma,feline,Felidae,0,1,1,0,0,0,1,0,0,0,1,0,0,2,1,0,0
+Pygathrix,langur,Cerconpithecidae,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0
+Saguinus,tamarin,Cebidae,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+Speothos,canine,Canidae ,0,1,1,0,0,0,1,0,0,0,1,0,1,1,1,0,0
+Tamandua,anteater,Myrmecophagidae,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trachypithecus,monkey,Cercophithecidae,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0
+Tupaia,tree shrew,Tupaiidae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ursus,bear,Ursidae,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Vulpes,fox,Canidae ,0,2,1,0,0,0,1,0,0,0,2,0,1,2,1,0,0

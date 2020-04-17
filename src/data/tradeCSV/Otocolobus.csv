@@ -1,0 +1,5 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Otocolobus manul,Mammalia,Carnivora,Felidae,Otocolobus,CZ,RU,,1,1,live,,Z,C
+2018,II,Otocolobus manul,Mammalia,Carnivora,Felidae,Otocolobus,JP,RU,,1,1,live,,Z,C
+2018,II,Otocolobus manul,Mammalia,Carnivora,Felidae,Otocolobus,PL,RU,,2,2,live,,Z,C
+2018,II,Otocolobus manul,Mammalia,Carnivora,Felidae,Otocolobus,US,CZ,,1,1,live,,Z,C

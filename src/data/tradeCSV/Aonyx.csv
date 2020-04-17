@@ -1,0 +1,22 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Aonyx spp.,Mammalia,Carnivora,Mustelidae,Aonyx,US,SG,,1,,live,,Z,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,AU,SG,,,1,live,,Z,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,BM,US,,,1,live,,Z,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,CA,US,,,2,live,,T,F
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,CN,DE,,8,,live,,Z,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,CN,JP,,,2,live,,T,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,CN,JP,,2,,live,,Z,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,CN,NL,DE,,8,live,,T,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,CN,NL,,,2,live,,T,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,CN,NL,,2,,live,,Z,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,JP,ID,,37,42,live,,T,F
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,JP,NL,DE,3,3,live,,T,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,KR,NL,NL,,4,live,,T,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,KR,NL,,,6,live,,T,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,NL,IM,,4,4,live,,Z,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,RU,CZ,,,2,live,,Z,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,RU,NL,,,2,live,,T,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,SG,CH,,2,,live,,Z,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,US,AT,,2,2,live,,T,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,US,NL,,6,6,live,,T,C
+2018,II,Aonyx cinerea,Mammalia,Carnivora,Mustelidae,Aonyx,US,SG,,,1,live,,Z,C

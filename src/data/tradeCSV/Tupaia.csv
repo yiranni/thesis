@@ -1,0 +1,10 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Tupaia belangeri,Mammalia,Scandentia,Tupaiidae,Tupaia,KR,MM,,,3,specimens,,S,W
+2018,II,Tupaia everetti,Mammalia,Scandentia,Tupaiidae,Tupaia,AR,US,PH,,11,specimens,,S,W
+2018,II,Tupaia gracilis,Mammalia,Scandentia,Tupaiidae,Tupaia,HK,MY,,,2,specimens,,S,W
+2018,II,Tupaia montana,Mammalia,Scandentia,Tupaiidae,Tupaia,HK,MY,,,2,specimens,,S,W
+2018,II,Tupaia montana,Mammalia,Scandentia,Tupaiidae,Tupaia,US,MY,,,10,skeletons,,S,W
+2018,II,Tupaia montana,Mammalia,Scandentia,Tupaiidae,Tupaia,US,MY,,,7,skins,,S,W
+2018,II,Tupaia montana,Mammalia,Scandentia,Tupaiidae,Tupaia,US,MY,,,11,skulls,,S,W
+2018,II,Tupaia montana,Mammalia,Scandentia,Tupaiidae,Tupaia,US,MY,,11,11,specimens,,S,W
+2018,II,Tupaia tana,Mammalia,Scandentia,Tupaiidae,Tupaia,HK,MY,,,2,specimens,,S,W

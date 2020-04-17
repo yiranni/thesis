@@ -1,0 +1,7 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,III,Odocoileus virginianus mayensis,Mammalia,Artiodactyla,Cervidae,Odocoileus,BR,CH,,1,,garments,,T,C
+2018,III,Odocoileus virginianus mayensis,Mammalia,Artiodactyla,Cervidae,Odocoileus,GB,XX,,45,,hair,kg,,
+2018,III,Odocoileus virginianus mayensis,Mammalia,Artiodactyla,Cervidae,Odocoileus,GB,XX,,500,,tails,,,
+2018,III,Odocoileus virginianus mayensis,Mammalia,Artiodactyla,Cervidae,Odocoileus,US,CA,,1,,skins,,H,W
+2018,III,Odocoileus virginianus mayensis,Mammalia,Artiodactyla,Cervidae,Odocoileus,US,CA,,1,,skulls,,H,W
+2018,III,Odocoileus virginianus mayensis,Mammalia,Artiodactyla,Cervidae,Odocoileus,US,CU,XX,1,,horns,,P,W
